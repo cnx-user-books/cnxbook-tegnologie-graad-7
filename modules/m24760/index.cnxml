@@ -1,0 +1,393 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>Wat is elektrisiteit?</title>
+  <metadata>
+  <md:content-id>m24760</md:content-id><md:title>Wat is elektrisiteit?</md:title>
+  <md:abstract/>
+  <md:uuid>b9d0101e-dcf8-45c6-82de-320a56833702</md:uuid>
+</metadata>
+
+<content>
+    <section id="id1164142844140">
+      <title>TEGNOLOGIE</title>
+      <para id="para-id1164142844140">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id1164148510550">
+      <title>Graad 7</title>
+      <para id="para-id1164148510550">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id1164142501915">
+      <title>STELSELS EN BEHEER: ELEKTRISITEIT</title>
+      <para id="para-id1164142501915">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id1164142981340">
+      <title>Module 10</title>
+      <para id="para-id1164142981340">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id1164142854135">
+      <title>WAT IS ELEKTRISITEIT?</title>
+      <para id="id1164148517880">Elektrisiteit</para>
+      <para id="id1164148300816">Agtergrond</para>
+      <para id="id1164142903140">Elektrisiteit is ‘n vorm van energie. ‘n Voorwerp wat die vermoë het om elektrisiteit te gelei, besit elektriese energie. Elektrisiteit word in Volt gemeet.</para>
+      <para id="id1164148460750">Elektriese energie kan maklik in ‘n ander vorm van energie omgesit word.</para>
+      <para id="id1164144247976">Daar is hoofsaaklik twee tipes elektrisiteit, naamlik</para>
+      <list id="id1164145642811" list-type="bulleted">
+        <item>hoofstroomelektrisiteit</item>
+        <item>battery-elektrisiteit</item>
+      </list>
+      <para id="id1164148256967">Battery-elektrisiteit</para>
+      <para id="id1164144684826">Die elektriese energie word in ‘n battery gestoor. Daar word die energie chemiese energie genoem. Wanneer elektriese energie vloei, beweeg elektrone in ‘n elektriese stroombaan.</para>
+      <para id="id1164144429604"/>
+      <para id="id1164144436786">Die basiese elemente vir ‘n elektriese stroombaan is:</para>
+      <list id="id1164142890903" list-type="bulleted">
+        <item>‘n <emphasis effect="bold">energiebron</emphasis>, bv. ‘n battery (‘n sel is 1,5V groot);</item>
+      </list>
+      <para id="id1164143032349">
+        <figure id="id1164141429441">
+          <media id="id1164141429441_media" alt="">
+            <image mime-type="image/png" src="../../media/Picture 4-d277.png" id="id1164141429441__onlineimage" height="108" width="65"/>
+          </media>
+        </figure>
+      </para>
+      <para id="id1164139930515">
+        <emphasis effect="bold">Skets</emphasis>
+      </para>
+      <figure id="id1164141817168">
+        <media id="id1164141817168_media" alt="">
+          <image mime-type="image/png" src="../../media/Picture 5-62de.png" id="id1164141817168__onlineimage" height="76" width="165"/>
+        </media>
+      </figure>
+      <para id="id1164148301422">
+        <emphasis effect="bold">Simbool</emphasis>
+      </para>
+      <list id="id1164142523125" list-type="bulleted">
+        <item>‘n <emphasis effect="bold">geleier</emphasis>, nl. drade van ‘n metaal wat die stroom gelei;</item>
+      </list>
+      <figure id="id1164145803978">
+        <media id="id1164145803978_media" alt="">
+          <image mime-type="image/png" src="../../media/Picture 7-1ec0.png" id="id1164145803978__onlineimage" height="85" width="158"/>
+        </media>
+      </figure>
+      <para id="id1164142917972">
+        <emphasis effect="bold">Skets</emphasis>
+      </para>
+      <figure id="id1164142511764">
+        <media id="id1164142511764_media" alt="">
+          <image mime-type="image/png" src="../../media/Picture 8-f588.png" id="id1164142511764__onlineimage" height="49" width="147"/>
+        </media>
+      </figure>
+      <para id="id1164142848366">
+        <emphasis effect="bold">Simbool</emphasis>
+      </para>
+      <list id="id1164144382264" list-type="bulleted">
+        <item>‘n <emphasis effect="bold">skakelaar</emphasis> wat ‘n oop of geslote stroombaan kan veroorsaak;</item>
+      </list>
+      <para id="id1164142903304"/>
+      <figure id="id1164142533009">
+        <media id="id1164142533009_media" alt="">
+          <image mime-type="image/png" src="../../media/Picture 10-16cd.png" id="id1164142533009__onlineimage" height="93" width="96"/>
+        </media>
+      </figure>
+      <para id="id1164142907901">
+        <emphasis effect="bold">Skets</emphasis>
+      </para>
+      <figure id="id1164142870501">
+        <media id="id1164142870501_media" alt="">
+          <image mime-type="image/png" src="../../media/Picture 11-0ca7.png" id="id1164142870501__onlineimage" height="36" width="222"/>
+        </media>
+      </figure>
+      <para id="id1164144439323">
+        <emphasis effect="bold">Simbool</emphasis>
+      </para>
+      <para id="id1164142836587"/>
+      <list id="id1164142497158" list-type="bulleted">
+        <item>‘n<emphasis effect="bold"> lading</emphasis> in die vorm van ‘n lig-, klank-, beweging- of warmtebron;</item>
+      </list>
+      <para id="id1164139919474"/>
+      <para id="id1164144307244">
+        <figure id="id1164142540903">
+          <media id="id1164142540903_media" alt="">
+            <image mime-type="image/png" src="../../media/Picture 13-6cf8.png" id="id1164142540903__onlineimage" height="54" width="82"/>
+          </media>
+        </figure>
+      </para>
+      <para id="id1164142511234">‘n Lig</para>
+      <para id="id1164144313490">
+        <figure id="id1164144284589">
+          <media id="id1164144284589_media" alt="">
+            <image mime-type="image/png" src="../../media/Picture 14.png" id="id1164144284589__onlineimage" height="53" width="53"/>
+          </media>
+        </figure>
+      </para>
+      <para id="id1164148504302">Simbool</para>
+      <para id="id1164142530350"/>
+      <para id="id1164142778044">
+        <figure id="id1164141877594">
+          <media id="id1164141877594_media" alt="">
+            <image mime-type="image/png" src="../../media/Picture 15-33aa.png" id="id1164141877594__onlineimage" height="53" width="125"/>
+          </media>
+        </figure>
+      </para>
+      <para id="id1164142861863">‘n Gonser</para>
+      <para id="id1164144260956">
+        <figure id="id1164148322743">
+          <media id="id1164148322743_media" alt="">
+            <image mime-type="image/png" src="../../media/Picture 16-1c9f.png" id="id1164148322743__onlineimage" height="54" width="61"/>
+          </media>
+        </figure>
+      </para>
+      <para id="id1164145692948">Simbool</para>
+      <para id="id1164142881838"/>
+      <para id="id1164144444254">
+        <figure id="id1164148585721">
+          <media id="id1164148585721_media" alt="">
+            <image mime-type="image/png" src="../../media/Picture 17.png" id="id1164148585721__onlineimage" height="82" width="90"/>
+          </media>
+        </figure>
+      </para>
+      <para id="id1164142513780">‘n Elektriese motor</para>
+      <para id="id1164148311578"/>
+      <para id="id1164152804207">
+        <figure id="id1164148574940">
+          <media id="id1164148574940_media" alt="">
+            <image mime-type="image/png" src="../../media/Picture 18.png" id="id1164148574940__onlineimage" height="60" width="157"/>
+          </media>
+        </figure>
+      </para>
+      <para id="id1164145642125">Simbool</para>
+      <para id="id1164142510843"/>
+      <para id="id1164144226929"/>
+      <para id="id1164148554249"/>
+      <para id="id1164139963157">Twee of meer van dieselfde komponente van ‘n stroombaan kan op twee verskillende maniere in ‘n stroombaan gemonteer word, nl.</para>
+      <list id="id1164145807879" list-type="bulleted">
+        <item>in <emphasis effect="bold">serie</emphasis>,<emphasis effect="bold"/>bv. ‘n positiewe pool van ‘n sel word met ‘n negatiewe pool van ‘n ander sel verbind;</item>
+        <item>in <emphasis effect="bold">paralle</emphasis>l, bv. al die positiewe pole van twee of meer selle van ‘n battery word met mekaar verbind en al die negatiewe pole van twee of meer selle van ‘n battery word met mekaar verbind.</item>
+      </list>
+      <para id="id1164148583586"><emphasis effect="bold">Voordeel van selle in serie</emphasis> – ‘n sterker stroom word gelewer.</para>
+      <para id="id1164144692120"><emphasis effect="bold">Voordeel van selle in parallel</emphasis> – dieselfde stroom kan langer gelewer word.</para>
+      <para id="id1164142512207">Wenk aan onderwyser:</para>
+      <para id="id1164142504235">Hierdie werkkaarte kan in groepe gedoen word. Elke groep kan ‘n ander stroombaan bou en dit dan aan die klas demonstreer, waarna elke leerder individueel die werkkaarte kan voltooi. Elke groep kan eers ‘n toetsstroombaan met ‘n I,5 V-gloeilamp in ‘n gloeilamphouer, ‘n skakelaar, draad en ‘n 1,5 V-sel in ‘n selhouer op ‘n sagtebordbasis bou. Monteer eers die gloeilamphouer, die batteryhouer en die skakelaar. Verbind die komponente met die draad en plaas die battery en gloeilamp in die stroombaan.</para>
+      <para id="id1164144312068">
+        <emphasis effect="bold">Benodigdhede </emphasis>
+        <emphasis effect="bold">(materiaal en gereedskap)</emphasis>
+        <emphasis effect="bold">:</emphasis>
+      </para>
+      <list id="id1164142525480" list-type="bulleted">
+        <item>1,5 V-selle</item>
+        <item>selhouers<emphasis effect="bold"/></item>
+        <item>1,5 V-gloeilampies</item>
+        <item>gloeilamphouers</item>
+        <item>7 skakelaars</item>
+        <item>7 basisse van sagtebord, 150 mm by 150 mm</item>
+        <item>draad om komponente te verbind </item>
+        <item>skroefies om komponente op sagtebord te monteer</item>
+        <item>verbindings</item>
+        <item>skroewedraaiers (platbek- en ster-)</item>
+        <item>gonsers met ‘n lae volt</item>
+        <item>resistors en diodes</item>
+      </list>
+    </section>
+    <section id="id1164144334584">
+      <title>Opdrag 1:</title>
+      <para id="para-id1164144334584">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id1164142848372">
+      <title>Om ‘n ondersoek uit te voer d.m.v. ‘n eenvoudige: </title>
+      <para id="para-id1164142848372">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id1164144330651">
+      <title>praktiese toets [LU 1.3]</title>
+      <para id="para-id1164144330651">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id1164144679075">
+      <title>Om toepaslike data te verkry [LU 1.4.4]</title>
+      <para id="para-id1164144679075">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id1164148493562">
+      <title>Om die stelsel te evalueer [LU 1.12]</title>
+      <para id="para-id1164148493562">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id1164141863865">
+      <title>Om kennis en begrip van elektriese stroombane te toon [LU 2.2]</title>
+      <para id="id1164144730955">WERKKAART 1:</para>
+      <list id="id1164149368933" list-type="bulleted">
+        <item>Verbind een 1,5 V-gloeilamp in ‘n gloeilamphouer met ‘n sel in ‘n selhouer. Gebruik verbindingsdraad en monteer ook ‘n skakelaar.</item>
+        <item>Maak ‘n eenvoudige skets van die stroombaan.<emphasis effect="bold"/></item>
+      </list>
+      <para id="id1164142743974">1.3 Teken ‘n stroomdiagram van die stroombaan en gebruik die regte simbole.</para>
+      <para id="id1164145793606">1.4 <emphasis effect="bold">Onderstreep:</emphasis></para>
+      <para id="id1164145660328">Die gloeilamp brand (baie helder/ helder/ dof/ glad nie).</para>
+      <para id="id1164144308121">WERKKAART 2:</para>
+      <para id="id1164144309550">2.1 Verbind een 1,5 V-sel in ‘n selhouer met twee 1,5 V-gloeilampe in gloeilamphouers. Monteer die gloeilampe in parallel. Voeg ook ‘n skakelaar in die stroombaan en verbind die komponente met geleidingsdrade. </para>
+      <list id="id1164139893212" list-type="bulleted">
+        <item>Teken ‘n stroomdiagram van die stroombaan.</item>
+        <item>Verwyder een van die gloeilampe uit sy houer. Wat gebeur met die ander gloeilamp? Verduidelik waarom dit gebeur.</item>
+        <item>Onderstreep:</item>
+      </list>
+      <para id="id1164148258969">Die gloeilampe brand (baie helder/ helder/ dof/ glad nie).</para>
+      <para id="id1164145663115">WERKKAART 3:</para>
+      <para id="id1164144417072">3.1 Verbind een 1,5 V-sel met twee 1,5 V-gloeilampe in serie. Monteer eers die selhouer, skakelaar en gloeilamphouers en verbind die komponente met die geleidingsdraad. Plaas daarna die sel en gloeilampe in die stroombaan.</para>
+      <para id="id1164142667430">3.2 Teken ‘n stroomdiagram van die stroombaan.</para>
+      <list id="id1164145796143" list-type="bulleted">
+        <item>Verwyder een van die gloeilampe uit sy houer. Wat gebeur met die ander gloeilamp? Verduidelik waarom dit gebeur. 3.4 <emphasis effect="bold">Onderstreep:</emphasis></item>
+      </list>
+      <para id="id1164144287610">Die gloeilampe brand (baie helder/ helder/ dof/ glad nie).</para>
+      <para id="id1164144329390">WERKKAART 4:</para>
+      <para id="id1164144348535">4.1 Verbind twee 1,5 V-selle in serie met twee 1,5 V-gloeilampe wat parallel verbind is. </para>
+      <para id="id1164145665045">4.2 Teken ‘n stroomdiagram van die stroombaan. </para>
+      <list id="id1164145575254" list-type="bulleted">
+        <item>Onderstreep:</item>
+      </list>
+      <para id="id1164144380660">Die gloeilampe brand (baie helder/ helder/ dof/ glad nie).</para>
+      <para id="id1164145795142">4.4 <emphasis effect="bold">Onderstreep:</emphasis></para>
+      <para id="id1164151683278">Die invloed van twee selle in parallel op die sterkte van die stroom is (groot/ gering).</para>
+      <para id="id1164148264636">WERKKAART 5:</para>
+      <para id="id1164144456523">5.1 Verbind twee 1,5 V-selle in serie met twee 1,5 V-gloeilampe wat parallel verbind is. </para>
+      <para id="id1164144246944">5.2 Teken ‘n stroomdiagram van die stroombaan. </para>
+      <para id="id1164149712559">5.3 <emphasis effect="bold">Onderstreep:</emphasis></para>
+      <para id="id1164149702874">Die gloeilampe brand (baie helder/ helder/ dof/ gladnie).</para>
+      <para id="id1164144467897">5.4 <emphasis effect="bold">Onderstreep:</emphasis></para>
+      <para id="id1164144428376">Die invloed van twee selle in serie op die grootte van die stroom is (groot/ gering).</para>
+      <para id="id1164144447243">WERKKAART 6:</para>
+      <para id="id1164142968334">6.1 Verbind twee 1,5 V-selle in serie met ‘n gonser en een 1,5 V-gloeilamp in serie.</para>
+      <para id="id1164144430591">6.2 Teken ‘n stroomdiagram van die stroombaan.</para>
+      <para id="id1164144396499">6.3 Werk die stroombaan? Hoekom of hoekom nie? Verskaf redes vir jou antwoord.</para>
+      <para id="id1164145517482">WERKKAART 7:</para>
+      <para id="id1164144429627">7.1 Verbind twee 1,5 V-selle in serie met ‘n gonser en een 1,5V-gloeilamp wat parallel met mekaar verbind is.</para>
+      <para id="id1164144377381">7.2 Teken ‘n stroomdiagram van die stroombaan. </para>
+      <para id="id1164148600126">7.3 Werk die stroombaan? Hoekom of hoekom nie? Verskaf redes vir jou antwoord.</para>
+      <para id="id1164145709012">WERKKAART 8:</para>
+      <list id="id1164144430306" list-type="bulleted">
+        <item>Wat beteken dit as twee gloeilampe in parallel verbind is? </item>
+        <item>Wat beteken dit as twee gloeilampe in serie verbind is? </item>
+        <item>Wat is die voordele om gloeilampe in parallel te verbind? </item>
+        <item>Wat is die voordele om selle / batterye in parallel te verbind? </item>
+        <item>Wat is die voordele om selle / batterye in serie te verbind? </item>
+      </list>
+      <list id="id1164145723769" list-type="bulleted">
+        <item>Wat is die funksie van ‘n weerstand in ‘n stroombaan?</item>
+        <item><emphasis effect="bold">Onderstreep:</emphasis>‘n Weerstand word in (serie / parallel) met ‘n gloeilamp of gonser in ‘n stroombaan ingebou.</item>
+      </list>
+      <list id="id1164144532517" list-type="bulleted">
+        <item>Wat is die funksie van ‘n diode in ‘n stroombaan? </item>
+      </list>
+      <para id="id1164148447122">8.7.2 <emphasis effect="bold">Onderstreep:</emphasis></para>
+      <para id="id1164144721936">‘n Diode word in (serie / parallel) met ander komponente in ‘n stroombaan ingebou.</para>
+    </section>
+    <section id="id1164144708950">
+      <title>Assessering</title>
+      <table id="id1164150627153" summary="">
+        <tgroup cols="1">
+          <colspec colnum="1" colname="c1"/>
+          <tbody>
+            <row>
+              <entry>Leeruitkomstes(LUs)</entry>
+            </row>
+            <row>
+              <entry/>
+            </row>
+            <row>
+              <entry>LU 1</entry>
+            </row>
+            <row>
+              <entry>Tegnologiese Prosesse en VaardighedeDie leerder is in staat om tegnologiese prosesse en vaardighede eties en verantwoordelik toe te pas deur gepaste inligtings- en kommunikasietegnologie te gebruik.</entry>
+            </row>
+            <row>
+              <entry>Assesseringstandaarde(ASe)</entry>
+            </row>
+            <row>
+              <entry/>
+            </row>
+            <row>
+              <entry>Dit is duidelik wanneer die leerder:</entry>
+            </row>
+            <row>
+              <entry><emphasis effect="bold">ondersoek</emphasis>:</entry>
+            </row>
+            <row>
+              <entry>1.3 ondersoek uitvoer deur middel van eenvoudige praktiese toetse met betrekking tot aspekte van die tegnologiese kennisvelde (Strukture, Verwerking, Stelsels en Beheer);</entry>
+            </row>
+            <row>
+              <entry>1.4 tydens ondersoeke ‘n strategie beplan vir die versameling van data en inligting.</entry>
+            </row>
+            <row>
+              <entry>
+                <list id="id1164144649402" list-type="bulleted">
+                  <item>die produk of stelsel evalueer gebaseer op kriteria wat direk met die ontwerpopdrag en sommige van die spesifikasies en beperkings verband hou, en verbeteringe of wysigings voorstel;</item>
+                </list>
+              </entry>
+            </row>
+            <row>
+              <entry>LU 2</entry>
+            </row>
+            <row>
+              <entry><emphasis effect="bold">TEGNOLOGIESE KENNIS EN BEGRIP </emphasis>Die leerder is in staat om relevante tegnologiese kennis te verstaan en dit eties en verantwoordelik toe te pas.</entry>
+            </row>
+            <row>
+              <entry>Dit is duidelik wanneer die leerder:</entry>
+            </row>
+            <row>
+              <entry><emphasis effect="bold">verwerking</emphasis>:2.2 kennis en begrip toon van hoe stowwe/materiaal verwerk kan word om eienskappe te verander of te verbeter (bv. sterkte, brandbestandheid, waterdigtheid, smaak, volume, tekstuur).</entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+    </section>
+    <section id="id1164148476084">
+      <title>Memorandum</title>
+      <para id="id1164144235399">Opdrag 1</para>
+      <para id="id1164148463368">Werkkaart 1:</para>
+      <para id="id1164142545656">1.2 Soos die leerder dit sou sien.</para>
+      <figure id="id1164152851883">
+        <media id="id1164152851883_media" alt="">
+          <image mime-type="image/png" src="../../media/graphics1-5649.png" id="id1164152851883__onlineimage" height="229" width="305"/>
+        </media>
+      </figure>
+      <para id="id1164141874091">1.3 </para>
+      <para id="id1164140017590"/>
+      <para id="id1164142886560">Werkkaart 2:</para>
+      <para id="id1164139762490"><figure id="id1164148573320"><media id="id1164148573320_media" alt=""><image mime-type="image/png" src="../../media/graphics2.png" id="id1164148573320__onlineimage" height="269" width="325"/></media></figure>2.2 </para>
+      <para id="id1164139893427">2.3 Waterwiel/hystoestel</para>
+      <list id="id1164142530298" list-type="bulleted">
+        <item>Brand nog steeds</item>
+        <item>Elektriese stroom vloei nog deur</item>
+      </list>
+      <para id="id1164149743946">2.4 dof</para>
+      <para id="id1164148565540">Werkkaart 3:</para>
+      <para id="id1164142853136"><figure id="id1164142734825"><media id="id1164142734825_media" alt=""><image mime-type="image/png" src="../../media/graphics3.png" id="id1164142734825__onlineimage" height="226" width="304"/></media></figure>3.2 </para>
+      <para id="id1164144702670">3.3 Waterwiel/hystoestel</para>
+      <list id="id1164142657589" list-type="bulleted">
+        <item>Brand nie</item>
+        <item>Stroom is onderbreek</item>
+      </list>
+      <list id="id1164142510782" list-type="bulleted">
+        <item>glad nie</item>
+      </list>
+      <para id="id1164144352553">Werkkaart 4:</para>
+      <para id="id1164142540928"><figure id="id1164148308156"><media id="id1164148308156_media" alt=""><image mime-type="image/png" src="../../media/graphics4.png" id="id1164148308156__onlineimage" height="295" width="313"/></media></figure>4.2 </para>
+      <para id="id1164144480455">4.3 helder</para>
+      <para id="id1164144278711">4.4 gering</para>
+      <para id="id1164148326274">Werkkaart 5:</para>
+      <para id="id1164144699505"><figure id="id1164139935947"><media id="id1164139935947_media" alt=""><image mime-type="image/png" src="../../media/graphics5.png" id="id1164139935947__onlineimage" height="273" width="329"/></media></figure>5.2 </para>
+      <para id="id1164144685685">5.3 baie helder</para>
+      <para id="id1164141814631">5.4 groot</para>
+    </section>
+  </content>
+</document>

@@ -1,0 +1,749 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>Voedseltegnologie</title>
+  <metadata>
+  <md:content-id>m24801</md:content-id><md:title>Voedseltegnologie</md:title>
+  <md:abstract/>
+  <md:uuid>99b0d35c-a2c5-4438-8862-c1874b0b250d</md:uuid>
+</metadata>
+
+<content>
+    <section id="id1170874135442">
+      <title>TEGNOLOGIE</title>
+      <para id="para-id1170874135442">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id1170874829052">
+      <title>Graad 7</title>
+      <para id="para-id1170874829052">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id1170874973216">
+      <title>PROSESSERING: VOEDSELTEGNOLOGIE</title>
+      <para id="para-id1170874973216">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id3970960">
+      <title>Module 19</title>
+      <para id="para-id3970960">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id7459127">
+      <title>VOEDSELTEGNOLOGIE</title>
+      <list id="id1170874373641" list-type="enumerated" number-style="arabic">
+        <item>Inleiding</item>
+      </list>
+      <para id="id5305881">In die vorige twee modules is die stappe van ‘n tipiese tegnologiese proses breedvoerig verduidelik en daar is ook geleentheid gebied om ‘n produk/stelsel in verband met elektrisiteit te ontwerp.</para>
+      <para id="id1170877073863">Die doel van hierdie module is om ‘n inleiding tot die wêreld van voedseltegnologie te bied, asook aan die leerders ‘n kans te bied om ‘n produk onder hierdie tema te vervaardig en uit te toets.</para>
+      <list id="id1170874213724" list-type="enumerated" number-style="arabic">
+        <item>Wat is voedseltegnologie?</item>
+      </list>
+      <para id="id1170881476542">Voedseltegnologie behels ‘n breë veld van studie, maar dit het beslis te make met die verwerking van rou materiale na voedselprodukte. Rou materiale sluit onder andere items soos piesangs, vis, koringkorrels en aartappels in. Sommige van hierdie rou materiale kan net so geëet word, byvoorbeeld piesangs. Ander rou materiale moet egter verwerk word alvorens dit smaaklik aangebied kan word. Dit is nodig om te onderskei tussen twee kernwoorde: <emphasis effect="bold">primêre prosessering </emphasis>en <emphasis effect="bold">sekondêre prosessering. Primêre prosessering</emphasis> behels ‘n proses waarvolgens rou materiaal tot ‘n bruikbare produk verwerk word (koringkorrels word byvoorbeeld tot meel verwerk). Indien die meel dan gebruik word om ‘n brood mee te bak, praat ons van <emphasis effect="bold">sekondêre prosessering.</emphasis></para>
+      <para id="id6634615">opdrag: </para>
+      <para id="id1170875506380">Illustreer nou jou eie voorbeelde van primêre en sekondêre voedselprosessering in die tabel hieronder.</para>
+      <table id="id8453374" summary="">
+        <tgroup cols="5">
+          <colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <colspec colnum="3" colname="c3"/>
+          <colspec colnum="4" colname="c4"/>
+          <colspec colnum="5" colname="c5"/>
+          <tbody>
+            <row>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry/>
+              <entry>LU/AS 2.2</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <para id="id7212232">Wanneer ons die proses van voedseltegnologie toepas, sal ons noodwendig oor bepaalde kennis en vaardighede moet beskik. Ons sal leer van verskillende bestanddele en hul voedingswaardes. Om voedselprodukte te vervaardig sal ons sekere gereedskap en toebehore effektief moet kan gebruik en ons moet ook die noodsaaklikheid van veiligheidmaatreëls en higiëne verstaan. Om ‘n produk wat werklik gewild sal wees te vervaardig sal ons die toepaslike navorsing moet doen en dit vereis weer kennis in verband met die benutting van rekenaars en toepaslike sagteware. Somtyds behels die proses van voedseltegnologie die ontwerp van bepaalde resepte en dikwels ook om instruksies noukeurig te kan navolg. Elke suksesvolle onderneming, dus ook die toepassing van voedseltegnologie, gaan gepaard met kwaliteitskontrole. <emphasis effect="italics">Is die bestanddele wat ek in my produk gebruik het in</emphasis><emphasis effect="italics">alle gevalle veilig?</emphasis> is maar ‘n enkele vraag wat die voedseltegnoloog moet vra. </para>
+      <para id="id1170878398877"> opdrag 1: </para>
+      <para id="id6405475">Beantwoord die volgende vrae:</para>
+      <list id="id1170874316677" list-type="enumerated" number-style="lower-alpha" mark-suffix=")">
+        <item>Maak ‘n lysie van ‘n paar voedselsoorte wat rou geëet kan word sonder enige verdere verwerking daarvan.</item>
+      </list>
+      <list id="id1170875696172" list-type="enumerated" number-style="lower-alpha" mark-suffix=")">
+        <item>Verduidelik hoe twee voedselsoorte verwerk kan word na ander produkte toe. Voorbeeld: Vleis (rou materiaal) word gedroog om biltong (verwerkte produk) te maak.</item>
+      </list>
+      <table id="id1170878497917" summary="">
+        <tgroup cols="5">
+          <colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <colspec colnum="3" colname="c3"/>
+          <colspec colnum="4" colname="c4"/>
+          <colspec colnum="5" colname="c5"/>
+          <tbody>
+            <row>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry/>
+              <entry>LU/AS 2.2</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <list id="id1170877149707" list-type="enumerated" number-style="arabic">
+        <item>Higiëne en veiligheid</item>
+      </list>
+      <list id="id4260966" list-type="enumerated" number-style="lower-alpha" mark-suffix=")">
+        <item>Voelselhigiëne en persoonlike higiëne</item>
+      </list>
+      <para id="id1170878225746">Voordat jy jou voedselproduk ontwerp, moet jy jou kennis oor voedselhigiëne verbreed, anders kan jy dalk ‘n voedselproduk vervaardig wat onveilig is vir mense om te eet! </para>
+      <para id="id1170872604551"><emphasis effect="bold">Voedselhigiëne</emphasis> is ‘n stel reëls wat daarop gemik is om kos skoon te hou. Die vernaamste metode om kossoorte skoon te hou is:</para>
+      <list id="id1170873408238" list-type="bulleted">
+        <item>om voedsel te beskerm teen bakterieë;</item>
+        <item>om bakterieë te verhoed om in voedsel te vermeerder; en</item>
+        <item>om bakterieë te vernietig deur dit te kook.</item>
+      </list>
+      <para id="id1170875604703">In die voedselindustrie kan swak voedselhigiëne dikwels lei tot voedselvergiftiging. Dit kan daartoe lei dat klante regstappe teen die onderneming neem, wat weer in baie gevalle groot boetes kan meebring. Volgens die <emphasis effect="italics">Voedselveiligheidswet van 1990</emphasis> is dit ‘n oortreding om voedsel te verkoop wat onveilig is om te eet. Verder wys die wet daarop dat die voedselindustrie alles in sy vermoë moet doen om te verseker dat voedsel, in watter verwerkte vorm ookal, veilig moet wees om te eet. Daar is sekere basiese beginsels wat deur die individu toegepas kan word ten einde te verseker dat voedsel teen besmetting met bakterieë beskerm word. Die kernwoord wat hier ter sprake is, is <emphasis effect="bold">persoonlike higiëne</emphasis>. Probeer om die volgende aanbevelings te respekteer as daar met voedsel gewerk word.</para>
+      <list id="id1170872562860" list-type="bulleted">
+        <item>Skoon hande</item>
+      </list>
+      <para id="id1170875182927">In die meeste gevalle gebruik ons ons hande om kossoorte te hanteer, en daarom is dit noodsaaklik dat ons hande uitsonderlik skoon is. Maak seker dat jy jou hande was nadat die toilet gebruik is. Maak in elk geval seker dat jy jou hande was voordat jy met rou materiale of dergelike voedselprodukte werk. Mense wat in die voedselbedryf werk, was gewoonlik hul hande met <emphasis effect="bold">antibakteriële seepsoorte</emphasis> alvorens hulle met voedsel werk.</para>
+      <list id="id1170878053041" list-type="bulleted">
+        <item>Beserings</item>
+      </list>
+      <para id="id1170874894566">Dit is nie wenslik om met voedsel te werk as jy ‘n snywond opgedoen het nie (veral nie as die snywond aan jou hand is nie). Die voedselsoort kan dan in direkte kontak met liggaamsvloeistowwe kom, en sodoende kry bakterieë ‘n kans om die kossoort binne te dring.</para>
+      <list id="id6740152" list-type="bulleted">
+        <item>Kleding</item>
+      </list>
+      <para id="id5107184">‘n Mens se klere kan ook lei tot die oordra van bakterieë. Dit is veral jou hare wat kan bydra tot die oordra van bakterieë en daarom dra werkers in voedselfabrieke haarnette as beskermingsmaatreëls.</para>
+      <list id="id1170874389185" list-type="bulleted">
+        <item>Gesondheidstoestand</item>
+      </list>
+      <para id="id4774767">Indien iemand ‘n siektetoestand soos diarree het, moet daar liefs nie met voedsel gewerk word nie. Gevaarlike bakterieë kan oorgedra word na die voedsel wat tot voedselvergiftiging kan lei.</para>
+      <list id="id1170872994689" list-type="bulleted">
+        <item>Rook</item>
+      </list>
+      <para id="id8928867">Mense mag nie rook terwyl hulle besig is om met voedsel te werk nie. Die gevaar lê daarin dat die persoon aan sy lippe kan raak terwyl ‘n sigaret uit die mond verwyder word. Wanneer die persoon dan aan sy/haar lippe raak, kan bakterieë met die hande na die voedsel oorgedra word.</para>
+      <list id="id4908588" list-type="bulleted">
+        <item>Werksomgewing</item>
+      </list>
+      <para id="id1170877417045">Dit is voor die hand liggend dat die omgewing waarin daar gewerk word, baie skoon gehou moet word. Hoewel daar baie is wat ‘n mens kan doen om die onmiddellike omgewing skoon te hou, is dit ‘n voorvereiste om die oppervlak waarop daar met die voedsel gewerk word, eers skoon te maak met antibakteriële sproei.</para>
+      <para id="id7284030">opdrag: </para>
+      <para id="id7515797">Voer die volgende instruksies uit:</para>
+      <list id="id1170872956952" list-type="enumerated" number-style="arabic">
+        <item>Onderskei tussen die kernwoorde <emphasis effect="italics">voedselhigiëne</emphasis> en <emphasis effect="italics">persoonlike higiëne</emphasis> tydens ‘n klasgesprek.</item>
+        <item>Ontwerp ‘n geheuekaart om aan te toon wat ‘n mens moet doen ten einde persoonlike higiëne te verseker.</item>
+      </list>
+      <table id="id1170874813296" summary="">
+        <tgroup cols="5">
+          <colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <colspec colnum="3" colname="c3"/>
+          <colspec colnum="4" colname="c4"/>
+          <colspec colnum="5" colname="c5"/>
+          <tbody>
+            <row>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry/>
+              <entry>LU/AS 1.2</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <list id="id2143874" list-type="bulleted">
+        <item>Voedselveiligheid</item>
+      </list>
+      <para id="id1960899">Voedselveiligheid is die proses waarvolgens daar verseker word dat voedsel veilig is om te eet ten einde voedselvergiftiging te voorkom.</para>
+      <list id="id5787656" list-type="bulleted">
+        <item>Wat veroorsaak voedselvergiftiging?</item>
+      </list>
+      <para id="id1170877287324">Daar is verskeie faktore wat kan lei tot voedselvergiftiging, maar die teenwoordigheid van bakterieë is waarskynlik die grootste oorsaak. Ofskoon die meeste soorte bakterieë onskadelik is, is daar sekere tipes wat kan lei tot voedselvergiftiging. Die tekens daarvan is gewoonlik naarheid, diarree, maagkrampe en koors. In sommige gevalle kan voedselvergiftiging selfs tot sterftes lei. Bakterieë is mikro-organismes wat slegs met behulp van ‘n mikroskoop gesien kan word. Daar is wel bakterieë wat met groot voordeel aangewend kan word, byvoorbeeld die soort waarmee kaas gemaak word. Bakterieë vermeerder teen ‘n snelle tempo onder die regte omstandighede. Bakterieë sal groei tussen 5°C en 63°C. Hulle floreer egter by temperature wat min of meer dieselfde as liggaamstemperatuur is, naamlik 37°C. Dit is interessant om daarop te let dat bakterieë onder ideale omstandighede elke 10 tot 20 minute verdubbel. Binne vyf ure kan een bakterie dus vermeerder het tot etlike duisende.</para>
+      <para id="id6629157">Dit is belangrik dat ons sal kennis neem van faktore wat die groei van bakterieë bevorder. Indien hierdie faktore aan ons bekend is, sal dit moontlik wees om stappe te doen ten einde hulle groei teen te werk.</para>
+      <table id="id8235008" summary="">
+        <tgroup cols="2">
+          <colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <tbody>
+            <row>
+              <entry>Warmte</entry>
+              <entry>Die temperatuur tussen 5°C en 63°C staan bekend as ‘n gevaarsone, aangesien bakterieë dan kan vermeerder. Indien ons die temperatuur óf bokant 63°C óf benede 5°C kan hou, maak ons dit dus onmoontlik vir bakterieë om verder te vermeerder. Dit word aanbeveel dat kossoorte ten minste vir twee minute bokant 70°C gekook word – sodoende word alle bakterieë vernietig.</entry>
+            </row>
+            <row>
+              <entry>Vog</entry>
+              <entry>Bakterieë het vog nodig om te groei. Het jy al ooit gewonder waarom biltong só ‘n lang raklewe het? Dit is omdat daar nie genoeg vog in die gedroogde vleis teenwoordig is vir bakterieë om op te floreer nie.</entry>
+            </row>
+            <row>
+              <entry>Proteïenryke voedsel</entry>
+              <entry>Bakterieë verkies voedsel met ‘n hoë proteïngehalte soos vleis, eiers en vis. Ons kan hierdie voedselsoorte beskou as hoë-risiko voedselsoorte.</entry>
+            </row>
+            <row>
+              <entry>Tyd</entry>
+              <entry>Bakterieë kan, soos wat voorheen genoem is, vinnig vermeerder onder ideale omstandighede. Voedsel moet dus nie te lank in warmrige omstandighede gelaat word nie.</entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <para id="id1952903">Mense wat voedsel hanteer, moet die volgende gevaarlike praktyke probeer vermy:</para>
+      <para id="id1170875607669"> die voedsel kook nie lank genoeg nie;</para>
+      <para id="id1170872740378"> die voedsel word voorberei en dan vir ‘n lang tyd laat staan alvorens dit  geëet word;</para>
+      <para id="id1170872676188"> die oordrag van bakterieë vanaf rou materiale na gekookte kos;</para>
+      <para id="id1170875201635"> voedsel word nie in die vrieskas bewaar nie;</para>
+      <para id="id1170872536927"> kossoorte soos bevrore hoender word nie behoorlik ontvries nie.</para>
+      <para id="id1170878062169">Kweek die gewoonte aan om die etiket op die voedselitem deeglik te bestudeer voordat jy dit koop. Die etiket dui die vervaldatum van die item vir die verbruiker aan. Hierdie vervaldatum word vooraf deur wetenskaplikes en voedseltegnoloë bepaal. Later in die module gaan daar aan julle ‘n kans gebied word om julle eie voedselproduk te ontwerp, en dan sal julle jul eie etikette moet ontwerp. </para>
+      <para id="id7223816">Dit wil voorkom asof kennis van die verband tussen temperature en bakterieë belangrik is, veral met die oog op die vervaardiging van julle eie voedselprodukte. Ons beveel dus aan dat julle die volgende tabel so noukeurig as wat moontlik is, sal invul. </para>
+      <para id="id1170875153244"/>
+      <para id="id1170874422690">opdrag: </para>
+      <table id="id8450040" summary="">
+        <tgroup cols="2">
+          <colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <tbody>
+            <row>
+              <entry>Grade Celsius</entry>
+              <entry>100; 72; 63; 37; 25; 5; 0; 18</entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <para id="id6279580">Kies vanuit die gegewe tabel die temperatuur wat die beste by die beskrywing in die onderste tabel pas.</para>
+      <table id="id1170875508151" summary="">
+        <tgroup cols="2">
+          <colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <tbody>
+            <row>
+              <entry namest="c1" nameend="c2">VOEDSELTEMPERATUURKAART</entry>
+            </row>
+            <row>
+              <entry>Kamertemperatuur</entry>
+              <entry/>
+            </row>
+            <row>
+              <entry>Vrieskastemperatuur</entry>
+              <entry/>
+            </row>
+            <row>
+              <entry>Water se vriespunt</entry>
+              <entry/>
+            </row>
+            <row>
+              <entry>Water se kookpunt</entry>
+              <entry/>
+            </row>
+            <row>
+              <entry>Pasteurisasie-temperatuur</entry>
+              <entry/>
+            </row>
+            <row>
+              <entry>Yskas se temperatuur</entry>
+              <entry/>
+            </row>
+            <row>
+              <entry>Liggaamstemperatuur</entry>
+              <entry/>
+            </row>
+            <row>
+              <entry>Baie warm – bakterieë word vernietig</entry>
+              <entry/>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <para id="id1170874572743">opdrag: </para>
+      <para id="id1170874496266">Vorm ‘n “paneel van voedseltegnoloë” om die onderwerp <emphasis effect="italics">voedselveiligheid </emphasis>te bespreek.</para>
+      <para id="id8990197"> Wenke by die opstel van ‘n paneel:</para>
+      <para id="id6190634"> ‘n Paneel bestaan gewoonlik uit drie tot vyf lede en het ‘n paneelleier wat deur middel van vrae die res van die groep aktiveer.</para>
+      <para id="id5581561"> Elke lid kry ‘n onderafdeling van die onderwerp om deeglik voor te berei.  Die groepleier weet watter onderafdeling aan die onderskeie lede toegewys is, en berei sy vrae dienooreenstemmend voor.</para>
+      <para id="id1170875078156"> Die groepleier stel die paneel aan die res van die klas voor en begin sy vrae aan die onderskeie lede vra.</para>
+      <para id="id1170872565883"> Na afloop van sy vrae kry die klas die geleentheid om ander vrae aan die paneel te stel.</para>
+      <table id="id6421444" summary="">
+        <tgroup cols="5">
+          <colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <colspec colnum="3" colname="c3"/>
+          <colspec colnum="4" colname="c4"/>
+          <colspec colnum="5" colname="c5"/>
+          <tbody>
+            <row>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry/>
+              <entry>LU/AS 1.2</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <para id="id5372431">Ontwerp jou eie voedselproduk</para>
+      <list id="id5401778" list-type="bulleted">
+        <item>Stappe tydens die beplanning en die maak van jou voedselproduk</item>
+      </list>
+      <para id="id6603179">Die volgende stappe mag jou goed te pas kom tydens die beplanning en die maak van jou produk. Die onderskeie stappe word eers diagrammaties voorgestel en daarna word elkeen se betekenis kortliks verduidelik.</para>
+      <table id="id6252587" summary="">
+        <tgroup cols="1">
+          <colspec colnum="1" colname="c1"/>
+          <tbody>
+            <row>
+              <entry>ONTLEED DIE ONTWERPVOORSTEL</entry>
+            </row>
+            <row>
+              <entry>VERSAMEL NAVORSINGSRESULTATE</entry>
+            </row>
+            <row>
+              <entry>ONDERSOEK IDEES</entry>
+            </row>
+            <row>
+              <entry>SKRYF ‘N SPESIFIKASIE</entry>
+            </row>
+            <row>
+              <entry>BEPLAN EN VERVAARDIG VOEDSELPRODUK</entry>
+            </row>
+            <row>
+              <entry>KWALITEITSKONTROLE</entry>
+            </row>
+            <row>
+              <entry>EVALUEER DIE SUKSES VAN DIE VOEDSELPRODUK</entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <list id="id1170877998868" list-type="enumerated" number-style="lower-roman" mark-suffix=")">
+        <item>Ontleed die ontwerpvoorstel</item>
+      </list>
+      <para id="id5519835">Die beplanning en die maak van die voedselproduk begin by die ontleding van die ontwerpvoorstel. Hierdie module se ontwerpvoorstel is:</para>
+      <para id="id1170874884129">Beplan en maak ‘n energiestafie wat sportmanne kan eet om hulle energievlakke voor ‘n belangrike byeenkoms te verbeter.</para>
+      <para id="id1170875031983">Deur die noukeurige ontleding van hierdie ontwerpvoorstel moet die suksesvolle voedselproduk:</para>
+      <list id="id1170875533483" list-type="bulleted">
+        <item>‘n stafievorm aanneem;</item>
+        <item>energie na inname vrystel; en</item>
+        <item>aanloklik wees vir sportmanne en -vroue.</item>
+        <item>Versamel navorsingsresultate</item>
+      </list>
+      <para id="id5692156">Dit is raadsaam om te kyk na soortgelyke produkte en idees. Raadpleeg gerus resepteboeke, tydskrifte en koerante. Besoek verskeie kafees en winkels en moenie huiwer om met mense in gesprek te tree oor hulle voorkeure en afkeure nie. Probeer om ‘n onderhoud met ‘n dieetkundige oor die ontwerpvoorstel te voer, en bestudeer die etikette van bestaande soortgelyke produkte deeglik.</para>
+      <list id="id1170875064581" list-type="enumerated" number-style="lower-roman" mark-suffix=")">
+        <item>Skryf ‘n spesifikasie</item>
+      </list>
+      <para id="id1170874215703">Die spesifikasie is in der waarheid ‘n opsomming van die voorvereistes soos wat dit verduidelik is in die ontwerpvoorstel. In hierdie geval sal die spesifikasie soos volg wees:</para>
+      <para id="id1170881488086"> Die vorm van die lekkerny moet dié van ‘n stafie aanneem.</para>
+      <para id="id1170875710847"> Die bestanddele moet geurig wees en dus lekker smaak.</para>
+      <para id="id1170878050174"> Die bestanddele moet van so ‘n aard wees dat dit energie  vinnig vrystel.</para>
+      <para id="id1170874255169"> Die bestanddele mag nie veroorsaak dat die voedselproduk ‘n opkikker is nie.</para>
+      <para id="id1170873038722"> Dit moet bekostigbaar wees.</para>
+      <para id="id5409669">Naam en beskrywing van die produk.</para>
+      <para id="id1170873038563"> Grootte, vorm en voorkoms.</para>
+      <para id="id1170875082350"> Bestanddele en die hoeveelhede.</para>
+      <para id="id1170874218955"> Resep (hoe dit gemaak word).</para>
+      <para id="id7221768"> Raklewe en bewaringsvoorskrifte.</para>
+      <list id="id1170874890571" list-type="enumerated" number-style="lower-roman" mark-suffix=")">
+        <item>Beplanning en vervaardiging van jou voedselproduk</item>
+      </list>
+      <para id="id2098738">Sommige mense is onder die indruk dat daar net een manier van beplanning en vervaardiging bestaan.</para>
+      <para id="id1170878507958">Wanneer jy jou energiestafie beplan en vervaardig, moet jy jou kreatiewe denke toelaat om met oplossings en voorstelle na vore te kom. Aanvaar dat jy anders gaan dink en doen as jou maat. Jy kan wel jou maat se opinie inwin om jou produk te evalueer, maar jy moet nooit onder die indruk verkeer dat jou produk soortgelyk aan dié van jou maat moet wees nie.</para>
+      <para id="id7284253">Hier volg nuttige informasie wat jy kan aanwend tydens die beplanning en vervaardiging van jou energiestafie.</para>
+      <table id="id1170872601557" summary="">
+        <tgroup cols="2">
+          <colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <tbody>
+            <row>
+              <entry namest="c1" nameend="c2">WAAROM IS ENERGIESTAFIES SO GEWILD?<emphasis effect="bold">Hulle is gesond.</emphasis> Deur hulle te eet, word die liggaam voorsien van koolhidrate, vitamines en minerale, asook vesel en proteïne. <emphasis effect="bold">Gewoonlik ondersteun dit enige sportman (-vrou).</emphasis> Energiestafies verteer maklik en voorsien die spiere van glukose. <emphasis effect="bold">Energiestafies is gerieflik.</emphasis> Omdat die meeste energiestafies tussen 30 g en 80 g weeg, kan sportmanne dit maklik verpak. Dink maar aan hardlopers en fietsryers wat nie baie spasie het tydens deelname nie.RESEP VIR ENERGIESTAFIES VIR FIETSRYERSBestanddele</entry>
+            </row>
+            <row>
+              <entry>
+                <list id="id4057650" list-type="bulleted">
+                  <item>24 gedroogde vye</item>
+                  <item><sup>1</sup>/<sub>3 </sub>koppie heuning</item>
+                  <item>4 teelepels lemoensap</item>
+                  <item>2 teelepels suurlemoensap</item>
+                  <item>½ teelepel koeksoda</item>
+                </list>
+              </entry>
+              <entry>
+                <list id="id6377758" list-type="bulleted">
+                  <item>¼ teelepel bakpoeier</item>
+                  <item>1 teelepel kookolie</item>
+                  <item>¼ koppie stroop</item>
+                  <item>2 eierwitte</item>
+                  <item>1 koppie hawermout</item>
+                </list>
+              </entry>
+            </row>
+            <row>
+              <entry namest="c1" nameend="c2">InstruksiesMeng eers die vye, heuning, lemoensap en suurlemoensap in ‘n voedselverwerker. Meng nou al die ander bestanddele apart (behalwe die hawermout). Voeg nou die twee mengsels bymekaar en rol dit in die vorm van gholfballetjies (die mengsels maak omtrent 20 sulke balletjies). Bedek nou die balletjies met die hawermout en bak dit teen 350 grade Fahrenheit vir ongeveer 10 – 15 minute (werk gerus uit hoeveel grade Celsius dit is). Bewaar jou produk in die yskas.</entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <table id="id1170872769247" summary="">
+        <tgroup cols="5">
+          <colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <colspec colnum="3" colname="c3"/>
+          <colspec colnum="4" colname="c4"/>
+          <colspec colnum="5" colname="c5"/>
+          <tbody>
+            <row>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry/>
+              <entry>LU/AS 1.1</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry/>
+              <entry>LU/AS 1.2</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry/>
+              <entry>LU/AS 1.5</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry/>
+              <entry>LU/AS 1.6</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <list id="id1170872601270" list-type="enumerated" number-style="lower-roman" mark-suffix=")">
+        <item>Evaluering van jou produk</item>
+      </list>
+      <para id="id1170872605414">Somtyds moet ‘n mens nie jou eerste produk as jou beste poging aanvaar nie. Gebruik jou maats om die kwaliteit en die aanvaarbaarheid van jou energiestafie te evalueer. Moet ook nie oorsensitief wees vir kritiek nie. Gebruik jou maats se aanbevelings en onthou dat die persone wat jou produk gaan koop met dieselfde kritiese oë as jou maats daarna kyk. Stel gerus ‘n proewerspaneel aan. Ons gebruik ‘n proewerspaneel om ‘n paar mense die geleentheid te gee om ‘n oordeel oor jou produk te fel. Dit is nie wenslik om net een persoon se mening oor die sukses van jou produk uit te vra nie. Hoe groter die groep, hoe groter word die kanse dat jy verskillende menings gaan kry. Probeer gerus om jou produk so aan te pas dat die meeste van die proewerspaneel se behoeftes bevredig word.</para>
+      <section id="id1170878360287">
+        <title>So werk ‘n proewerspaneel</title>
+        <list id="id1170875693424" list-type="bulleted">
+          <item>Maak meer as een energiestafie.</item>
+          <item>Merk hulle A, B, C, ensovoorts.</item>
+        </list>
+        <para id="id1170878216949">Gebruik dan ‘n stel kriteria waarvolgens hulle moet beoordeel. As jy nie ‘n stel kriteria opstel nie, sal die proewerspaneel nie weet waarna om te kyk nie en sal jy dit baie moeilik vind om die resultate te verwerk. Ons sluit vir jou ‘n voorbeeld van ‘n lysie kriteria in:</para>
+        <para id="id1170874953827"/>
+        <table id="id1170875223038" summary="">
+          <tgroup cols="5">
+            <colspec colnum="1" colname="c1"/>
+            <colspec colnum="2" colname="c2"/>
+            <colspec colnum="3" colname="c3"/>
+            <colspec colnum="4" colname="c4"/>
+            <colspec colnum="5" colname="c5"/>
+            <tbody>
+              <row>
+                <entry namest="c1" nameend="c5"/>
+              </row>
+              <row>
+                <entry namest="c1" nameend="c5">KRITERIA VIR DIE BEOORDELING VAN ‘N ENERGIESTAFIE</entry>
+              </row>
+              <row>
+                <entry>Kriteria</entry>
+                <entry namest="c2" nameend="c5">Skaal</entry>
+              </row>
+              <row>
+                <entry/>
+                <entry>Baie goed</entry>
+                <entry>Taamlik goed</entry>
+                <entry>Aanvaarbaar</entry>
+                <entry>Nie goed nie</entry>
+              </row>
+              <row>
+                <entry>1. Verpakking</entry>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+              </row>
+              <row>
+                <entry>2. Tekstuur</entry>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+              </row>
+              <row>
+                <entry>3. Smaak</entry>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+              </row>
+              <row>
+                <entry>4. Grootte</entry>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+              </row>
+              <row>
+                <entry>5. Kleur</entry>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+        <table id="id1170877301796" summary="">
+          <tgroup cols="5">
+            <colspec colnum="1" colname="c1"/>
+            <colspec colnum="2" colname="c2"/>
+            <colspec colnum="3" colname="c3"/>
+            <colspec colnum="4" colname="c4"/>
+            <colspec colnum="5" colname="c5"/>
+            <tbody>
+              <row>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+              </row>
+              <row>
+                <entry/>
+                <entry>LU/AS 1.12</entry>
+                <entry/>
+                <entry/>
+                <entry/>
+              </row>
+              <row>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+      </section>
+    </section>
+    <section id="id1170873049691">
+      <title>Assessering</title>
+      <table id="id1170877415437" summary="">
+        <tgroup cols="1">
+          <colspec colnum="1" colname="c1"/>
+          <tbody>
+            <row>
+              <entry>Leeruitkomstes(LUs)</entry>
+            </row>
+            <row>
+              <entry/>
+            </row>
+            <row>
+              <entry>LU 1</entry>
+            </row>
+            <row>
+              <entry><emphasis effect="bold">TEGNOLOGIESE PROSESSE EN VAARDIGHEDE</emphasis>Die leerder is in staat om tegnologiese prosesse en vaardighede eties en verantwoordelik toe te pas deur gepaste inligtings- en kommunikasietegnologie te gebruik.</entry>
+            </row>
+            <row>
+              <entry>Assesseringstandaarde(ASe)</entry>
+            </row>
+            <row>
+              <entry/>
+            </row>
+            <row>
+              <entry>Dit is duidelik wanneer die leerder:</entry>
+            </row>
+            <row>
+              <entry><emphasis effect="bold">Ondersoek</emphasis>:1.2 bestaande produkte ondersoek wat toepaslik is vir ’n probleem, situasie of behoefte gebaseer op die volgende kernaspekte van ontwerp:1.2.1 mense;1.2.2 doel;1.2.3 voorkoms;1.2.4 omgewing;1.2.5 veiligheid;1.2.6 koste;</entry>
+            </row>
+            <row>
+              <entry><emphasis effect="bold">Ontwerp</emphasis>:1.5 ’n kort en duidelike stelling of ontwerpopdrag skryf of kommunikeer vir die ontwikkeling van ’n produk of stelsel met betrekking tot ’n gegewe probleem, behoefte of geleentheid;</entry>
+            </row>
+            <row>
+              <entry><emphasis effect="bold">Evalueer</emphasis>:1.12 die produk of stelsel evalueer gebaseer op kriteria wat direk met die ontwerpopdrag en sommige van die spesifikasies en beperkings verband hou, en stel verbeteringe of wysigings voor.</entry>
+            </row>
+            <row>
+              <entry>Leeruitkomstes(LUs)</entry>
+            </row>
+            <row>
+              <entry/>
+            </row>
+            <row>
+              <entry>LU 2</entry>
+            </row>
+            <row>
+              <entry><emphasis effect="bold">TEGNOLOGIESE KENNIS EN BEGRIP </emphasis>Die leerder is in staat om relevante tegnologiese kennis te verstaan en dit eties en verantwoordelik toe te pas.</entry>
+            </row>
+            <row>
+              <entry>Dit is duidelik wanneer die leerder:</entry>
+            </row>
+            <row>
+              <entry><emphasis effect="bold">Verwerking</emphasis>:2.2 kennis en begrip toon van hoe stowwe/materiaal verwerk kan word om eienskappe te verander of te verbeter (bv. sterkte, brandbestandheid, waterdigtheid, smaak, volume, tekstuur).</entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+    </section>
+    <section id="id1170878039566">
+      <title/>
+      <para id="para-id1170878039566">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id1170877243668">
+      <title>Memorandum</title>
+      <table id="id1170872929269" summary="">
+        <tgroup cols="2">
+          <colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <tbody>
+            <row>
+              <entry namest="c1" nameend="c2">VOEDSELTEMPERATUURKAART</entry>
+            </row>
+            <row>
+              <entry>Kamertemperatuur</entry>
+              <entry>25°C</entry>
+            </row>
+            <row>
+              <entry>Vrieskastemperatuur</entry>
+              <entry>0°C</entry>
+            </row>
+            <row>
+              <entry>Water se vriespunt</entry>
+              <entry>0°C</entry>
+            </row>
+            <row>
+              <entry>Water se kookpunt</entry>
+              <entry>100°C</entry>
+            </row>
+            <row>
+              <entry>Pasteurisasie-temperatuur</entry>
+              <entry>72°C</entry>
+            </row>
+            <row>
+              <entry>Yskas se temperatuur</entry>
+              <entry>5°C</entry>
+            </row>
+            <row>
+              <entry>Liggaamstemperatuur</entry>
+              <entry>37°C</entry>
+            </row>
+            <row>
+              <entry>Baie warm – bakterieë word vernietig</entry>
+              <entry>72°C</entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+    </section>
+  </content>
+</document>

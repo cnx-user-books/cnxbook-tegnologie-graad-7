@@ -1,0 +1,452 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>Ontwerp en realiseer 'n vuurpyl</title>
+  <metadata>
+  <md:content-id>m24702</md:content-id><md:title>Ontwerp en realiseer 'n vuurpyl</md:title>
+  <md:abstract/>
+  <md:uuid>447c6e42-d1a2-4f6f-b784-978f29c9e4c6</md:uuid>
+</metadata>
+
+<content>
+    <section id="id1165323641166">
+      <title>TEGNOLOGIE </title>
+      <para id="para-id1165323641166">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id1165316811752">
+      <title>GRAAD 7</title>
+      <para id="para-id1165316811752">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id3213787">
+      <title>STELSELS EN BEHEER: VERVOER</title>
+      <para id="para-id3213787">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id1165316634203">
+      <title>Module 3</title>
+      <para id="para-id1165316634203">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id1165322833193">
+      <title>ONTWERP EN REALISEER ‘N VUURPYL</title>
+      <para id="id1165319476356">Agtergrond</para>
+      <para id="id6857967">‘n Vuurpyl maak staat op spuitaandrywing om te kan vlieg. Wanneer ‘n vuurpyl sy brandstof gebruik, word ‘n stroom warm lug by die stert uitgespuit wat die vuurpyl vorentoe laat beweeg. Vliegtuie wat laer as 25 km vlieg, gebruik die suurstof uit die atmosfeer om hul brandstof te laat ontbrand.</para>
+      <para id="id5263472">Vuurpyle moet suurstof saam vervoer, want bokant 25 km van die aarde se oppervlak is daar nie genoeg suurstof nie.</para>
+      <para id="id1165324037135"><emphasis effect="bold">M</emphasis>aak ‘n vuurpyl</para>
+      <para id="id6986836">Agtergrond</para>
+      <para id="id1165317852697">Ons gaan nou ‘n vuurpyl maak wat spuitaandrywing gebruik om vorentoe te beweeg. Die spoed waarmee ‘n vuurpyl vorentoe beweeg, hang af van die hoeveelheid dryfgas wat dit agter uitlaat. Water is ‘n baie beter dryfmiddel as warm gas, want dit is baie swaarder. Ons gaan saamgeperste water en lug gebruik en waarnemings maak oor hoe hoog/ver jul vuurpyl kan vlieg.</para>
+    </section>
+    <section id="id2468722">
+      <title>Opdrag 1: </title>
+      <para id="para-id2468722">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id3450360">
+      <title>Om benodigdhede te versamel vir julle vuurpyl</title>
+      <table id="id1165316488171" summary="">
+        <tgroup cols="5">
+          <colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <colspec colnum="3" colname="c3"/>
+          <colspec colnum="4" colname="c4"/>
+          <colspec colnum="5" colname="c5"/>
+          <tbody>
+            <row>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry/>
+              <entry>LU/AS 1.10</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <para id="id1433575">Benodigdhede:</para>
+      <list id="id2966411" list-type="bulleted">
+        <item>Dun karton.</item>
+        <item>‘n Pen.<emphasis effect="bold"/></item>
+        <item>’n Liniaal.</item>
+        <item>Gekleurde karton.</item>
+        <item>‘n Skêr.</item>
+        <item>Twee leë 2 ℓ plastiekbottels</item>
+        <item>Sterk breë kleeflint of maskeerband.</item>
+        <item>‘n Tregter.</item>
+        <item>’n Beker water.</item>
+        <item>’n Kurkprop.</item>
+        <item>‘n Lugklep (van ‘n fietspomp).</item>
+        <item>Plastiekpyp.</item>
+        <item>‘n Fietspomp.</item>
+        <item>’n Banksakkie.</item>
+        <item>’n Gradeboog.</item>
+        <item>Gom.</item>
+        <item>‘n Handwerkmes.</item>
+        <item>‘n Stilet of breinaald.</item>
+        <item>‘n Passer.</item>
+        <item>Oliebasis verf.</item>
+      </list>
+      <para id="id1165318319630">Agtergrond</para>
+      <para id="id1165315782044">‘n Vliegtuig of vuurpyl werk volgens Newton se derde Wet van Beweging, nl. as die een bron ‘n krag uitoefen op ‘n ander, dan oefen die ander bron dieselfde hoeveelheid krag uit op die eerste bron, maar in die teenoorgestelde rigting as die eerste bron, d.w.s. op elke aksie is daar ‘n teenoorgestelde reaksie.</para>
+      <para id="id6376307">As die krag wat jy op ‘n voorwerp uitoefen groter is as die weerstand wat die voorwerp uitoefen, kan die krag wat jy uitgeoefen het, beweging veroorsaak. Die beweging in die vuurpyl word bewerkstellig deurdat die vuurpyl opwaarts gestoot word deur die ontsnappende gasse wat vervaardig is as gevolg van die chemiese reaksie tussen die brandstof en suurstof wat verbrand in die verbrandingskamers. Die groot volume gasse ontsnap deur die vuurpyl se staaluitlaatpyp teen ‘n hoë snelheid.</para>
+      <para id="id1165318147689">Daar is vyf soorte kragte wat op ‘n vuurpyl inwerk, nl.:</para>
+      <para id="id1165317347077"><emphasis effect="bold">Stootkrag</emphasis>: die krag wat die enjin verskaf wat by die agterkant uitkom en die vuurpyl vorentoe stoot</para>
+      <para id="id1165318622404"><emphasis effect="bold">Aantrekkingskrag</emphasis>: die krag wat die vuurpyl terug aarde toe druk.</para>
+      <para id="id7167171"><emphasis effect="bold">Weerstand</emphasis>: die lug bied weerstand teen die vuurpyl, wat veroorsaak dat die vuurpyl se spoed afneem. (Buite die atmosfeer is daar geen weerstand nie, want daar is geen lug nie).</para>
+      <para id="id1165320672794"><emphasis effect="bold">Stygkrag</emphasis>: ‘n Vuurpyl kan nie doeltreffend gelanseer word en vertikaal opstyg nie, tensy die stootkrag van sy motore groter is as die vuurpyl se gewig.</para>
+      <para id="id8313678"><emphasis effect="bold">Relatiewe wind</emphasis>: Die lug vloei vinnig om die neus en langs die romp af. </para>
+      <para id="id1165320634630">Langer neusstukke word gebruik om beter lugvloei te verkry.</para>
+    </section>
+    <section id="id1165318659069">
+      <title>Opdrag 2: </title>
+      <para id="para-id1165318659069">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id1984441">
+      <title>Om navorsing te doen oor hoe die vinne van ‘n vuurpyl lyk</title>
+      <table id="id6442276" summary="">
+        <tgroup cols="5">
+          <colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <colspec colnum="3" colname="c3"/>
+          <colspec colnum="4" colname="c4"/>
+          <colspec colnum="5" colname="c5"/>
+          <tbody>
+            <row>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry/>
+              <entry>LU/AS 1.7</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <para id="id3536596">Agtergrond</para>
+      <para id="id1165322913418">‘n Vuurpyl het vinne nodig om reguit te kan vlieg. Doen <emphasis effect="bold">navorsing</emphasis> oor hoe die vinne van ‘n vuurpyl lyk en teken ‘n paar voorbeelde in die spasie. Besluit ook hoeveel vinne julle wil gebruik en hoe groot die vinne in verhouding met die lyfgedeelte van die vuurpyl moet wees. Besluit ook watter tipe materiaal die geskikste is om die vinne van te maak. Dit is belangrik om vir die vuurpyl stertvinne aan te sit sodat dit regop kan staan vir die lansering (Sien bylae1 op bladsy 9). Die posisie van die vinne aan die romp is ook uiters belangrik.</para>
+      <figure id="id1165323775463">
+        <media id="id1165323775463_media" alt="">
+          <image mime-type="image/png" src="../../media/Picture 2-f302.png" id="id1165323775463__onlineimage" height="627" width="576"/>
+        </media>
+      </figure>
+      <figure id="id1165318749601">
+        <media id="id1165318749601_media" alt="">
+          <image mime-type="image/png" src="../../media/Picture 3-7e10.png" id="id1165318749601__onlineimage" height="880" width="584"/>
+        </media>
+      </figure>
+    </section>
+    <section id="id5104594">
+      <title>Opdrag 3: </title>
+      <table id="id5483273" summary="">
+        <tgroup cols="5">
+          <colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <colspec colnum="3" colname="c3"/>
+          <colspec colnum="4" colname="c4"/>
+          <colspec colnum="5" colname="c5"/>
+          <tbody>
+            <row>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry/>
+              <entry>LU/AS 1.10</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <para id="id5695543">Gebruik die skets as ‘n templaat en plak die bladsy op karton. Trek die vier vinne af op dikker, stewiger karton. Knip dit netjies uit. Vou die stippellyn om en plak die vinne onder om die bottel mooi ewe ver uit mekaar. </para>
+    </section>
+    <section id="id6500466">
+      <title>Opdrag 4: </title>
+      <table id="id2400660" summary="">
+        <tgroup cols="5">
+          <colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <colspec colnum="3" colname="c3"/>
+          <colspec colnum="4" colname="c4"/>
+          <colspec colnum="5" colname="c5"/>
+          <tbody>
+            <row>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry/>
+              <entry>LU/AS 1.10</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <para id="id3154863">Let wel:</para>
+      <para id="id3334129">Weet jy hoe om hierdie skets van ‘n vin op skaal/in verhouding te vergroot na ‘n vin van ± 20 cm?</para>
+      <list id="id1165317848427" list-type="bulleted">
+        <item>Trek vierkante bo-oor die skets – vier in die breedte en agt in die lengte.</item>
+        <item>In hierdie geval is elke vierkantjie 5 mm by 5 mm.</item>
+        <item>Trek vierkante van 30 mm by 30 mm op ‘n A4-vel papier – vier in die breedte en agt in die lengte.</item>
+        <item>Trek dan die patroon op die groter blokke oor.</item>
+        <item>Nou het jy ‘n vin van ± 20 cm.</item>
+      </list>
+    </section>
+    <section id="id1165317316704">
+      <title>Opdrag 5: </title>
+      <para id="id8303668">Besluit watter tipe rompvin die geskikste is en maak ‘n duidelike vryhandskets van jul keuse</para>
+      <table id="id1165318254879" summary="">
+        <tgroup cols="5">
+          <colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <colspec colnum="3" colname="c3"/>
+          <colspec colnum="4" colname="c4"/>
+          <colspec colnum="5" colname="c5"/>
+          <tbody>
+            <row>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry/>
+              <entry>LU/AS 1.8</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+    </section>
+    <section id="id7674907">
+      <title>Opdrag 6: </title>
+      <para id="id1165320536093">Maak ‘n finale tekening (korrekte grootte en met besonderhede) van ‘n rompvin op ‘n vel papier, wat jul as templaat kan gebruik om op die dik karton of ander geskikte materiaal na te trek. </para>
+      <table id="id7925669" summary="">
+        <tgroup cols="5">
+          <colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <colspec colnum="3" colname="c3"/>
+          <colspec colnum="4" colname="c4"/>
+          <colspec colnum="5" colname="c5"/>
+          <tbody>
+            <row>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry/>
+              <entry>LU/AS 1.14</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+    </section>
+    <section id="id1165323008970">
+      <title>Opdrag 7: </title>
+      <para id="id5239188">Maak die romp van die vuurpyl deur die volgende instruksies te volg.</para>
+      <table id="id1165324124240" summary="">
+        <tgroup cols="5">
+          <colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <colspec colnum="3" colname="c3"/>
+          <colspec colnum="4" colname="c4"/>
+          <colspec colnum="5" colname="c5"/>
+          <tbody>
+            <row>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry/>
+              <entry>LU/AS 1.14</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <para id="id1165319170325">Instruksies</para>
+      <para id="id6861047">Knip een 2 ℓ bottel by die tweede lyn net onder die plakker middeldeur (Skets 1). Die deel wat die prop op het, gaan die boonste puntgedeelte van jou vuurpyl vorm. Die heel bottel met die opening ondertoe gedraai, vorm die onderste gedeelte van jou vuurpyl. Jy wil ‘n gewig in die boonste deel van jou vuurpyl hê.</para>
+      <para id="id6276491">Waarom?</para>
+      <list id="id7493169" list-type="bulleted">
+        <item>Die vuurpyl is nie gebalanseer as die enjin in die onderste gedeelte is nie. Dit is die swaarste deel. Jy moet ‘n swaartepunt vind, sodat die massas weerskante eweredig versprei kan word. </item>
+        <item>Daarom is dit nodig om iets swaars in die boonste gedeelte van jou vuurpyl te plaas sodat die vuurpyl meer stabiel kan wees. </item>
+        <item>As die brandstof bykom, is die vuurpyl se onderkant nog swaarder. </item>
+        <item>As ‘n vuurpyl stabiel is, hou dit aan om vertikaal opwaarts te vlieg, sonder om om te tuimel en rigting te verloor. </item>
+        <item>Plaas dus ‘n paar groterige rivierklippies in ‘n banksakkie en plak dit stewig vas op die bodem aan die buitekant van die heel bottel wat onderstebo gehou word </item>
+        <item>Plaas nou die boonste deel van die deurgeknipte bottel bo-op en plak dit stewig aan die heel bottel met maskeerband/sterk breë kleeflint vas.</item>
+      </list>
+      <para id="id5631657"/>
+    </section>
+    <section id="id1165316676050">
+      <title>Opdrag 8: </title>
+      <para id="id1165324065980">Teken ‘n bo-aansig van die plasing van die vinne. Gebruik ‘n gradeboog en sakrekenaar vir die korrekte spasiëring.</para>
+      <table id="id1165317518848" summary="">
+        <tgroup cols="5">
+          <colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <colspec colnum="3" colname="c3"/>
+          <colspec colnum="4" colname="c4"/>
+          <colspec colnum="5" colname="c5"/>
+          <tbody>
+            <row>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry/>
+              <entry>LU/AS 1.14</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <para id="id8745328">Plak nou die vinne vas soos beplan. Nadat die vuurpyl voorlopig voltooi is, is dit nou nodig om die swaartepunt en drukmiddelpunt van jou vuurpyl te vind.</para>
+    </section>
+    <section id="id1165320656739">
+      <title>Assessering</title>
+      <table id="id1165319382664" summary="">
+        <tgroup cols="1">
+          <colspec colnum="1" colname="c1"/>
+          <tbody>
+            <row>
+              <entry>Leeruitkomstes(LUs)</entry>
+            </row>
+            <row>
+              <entry/>
+            </row>
+            <row>
+              <entry>LU 1</entry>
+            </row>
+            <row>
+              <entry>Tegnologiese Prosesse en VaardighedeDie leerder is in staat om tegnologiese prosesse en vaardighede eties en verantwoordelik toe te pas deur gepaste inligtings- en kommunikasietegnologie te gebruik.</entry>
+            </row>
+            <row>
+              <entry>Assesseringstandaarde(ASe)</entry>
+            </row>
+            <row>
+              <entry/>
+            </row>
+            <row>
+              <entry>Dit is duidelik wanneer die leerder:</entry>
+            </row>
+            <row>
+              <entry><emphasis effect="bold">Ondersoek</emphasis>:1.3 ondersoek uitvoer deur middel van eenvoudige praktiese toetse met betrekking tot aspekte van die tegnologiese kennisvelde (Strukture, Verwerking, Stelsels en Beheer);</entry>
+            </row>
+            <row>
+              <entry><emphasis effect="bold">Ontwerp</emphasis>:1.7 minstens twee alternatiewe oplossings genereer en die idees annoteer;</entry>
+            </row>
+            <row>
+              <entry>1.8 moontlike oplossings kies, sinvolle redes vir keuse gee en ‘n gekose idee deur middel van grafika of modelleringstegnieke ontwikkel;</entry>
+            </row>
+            <row>
+              <entry><emphasis effect="bold">Maak</emphasis>:1.10 gepaste gereedskap en materiaal kies en gebruik om produkte deur middel van gepaste tegnieke te maak deur verskillende soorte materiaal akkuraat te meet, uit te merk, te knip/sny of te skei, te vorm of te vervorm, te heg, te las of saam te voeg, en af te rond;</entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <para id="id1165318561270"/>
+    </section>
+  </content>
+</document>

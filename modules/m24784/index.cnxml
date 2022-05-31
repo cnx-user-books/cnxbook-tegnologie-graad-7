@@ -1,0 +1,345 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>Om 'n elektronies wiskundige speletjie te maak - Deel 2</title>
+  <metadata>
+  <md:content-id>m24784</md:content-id><md:title>Om 'n elektronies wiskundige speletjie te maak - Deel 2</md:title>
+  <md:abstract/>
+  <md:uuid>7ff771a0-1b60-44b7-8ebb-39253251d5a9</md:uuid>
+</metadata>
+
+<content>
+    <section id="id20916940">
+      <title>TEGNOLOGIE</title>
+      <para id="para-id20916940">
+<!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id17942964">
+      <title>Graad 7</title>
+      <para id="para-id17942964">
+<!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id6907677">
+      <title>STELSELS EN BEHEER: ELEKTRISITEIT</title>
+      <para id="para-id6907677">
+<!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id22123030">
+      <title>Module 13</title>
+      <para id="para-id22123030">
+<!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id13599561">
+      <title>OM ‘N ELEKTRONIESE WISKUNDIGE SPELETJIE TE MAAK – Deel 2</title>
+      <para id="id20972090">Ontwerp: Finale werktekening</para>
+      <para id="id13495742">Wenk aan die onderwyser: Leerders kan die projek in groepe van drie aanpak. Een leerder ontwerp en maak die vooraansig (deksel), een leerder ontwerp en maak die stroombaan in die speletjie en die derde leerder ontwerp en maak die houer waarin die stroombaan geplaas word.</para>
+      <para id="id11493101">Leerder 1:</para>
+      <para id="id11493105"> Skets die vooraansig (2D-tekening) van die elektroniese speletjie.</para>
+      <para id="id17888156">(Gebruik sketse van dele, knip uit en plak.)</para>
+      <para id="id14768195">Leerder 2:</para>
+      <para id="id11497067"> Skets die uitleg van die elektriese stroombaan in die houer. Verskaf ook die nodige  byskrifte.</para>
+      <para id="id22333574">(Gebruik sketse van dele, knip uit en plak.)</para>
+      <para id="id22333579">Assessering van vooraansig van elektroniese speletjie </para>
+      <list id="id9682229" list-type="enumerated" number-style="arabic">
+        <item>(Ses, vier/vyf, twee/drie, een/geen) van die komponente word aangedui.</item>
+        <item>Die lengte en breedte van (drie, twee, een, geen) komponente (drie, twee, een, geen) word aangedui.</item>
+        <item>Die deursnee van (drie, twee, een, geen) komponente (lig, gonser, spleetspelde) word aangedui.</item>
+        <item>Die posisie van (ses, vyf/vier, twee/drie, een/geen) komponente word aangedui.</item>
+        <item>Die lengte en breedte van die isoleerbord word gegee met (projeksie- en dimensie-/ sommige / geen) lyne.</item>
+        <item>Al die komponente is gerangskik in ‘n (uitstekende / goeie / soort van ‘n / geen) patroon.</item>
+      </list>
+      <figure id="id18109467">
+        <media id="id18109467_media" alt="">
+          <image mime-type="image/png" src="../../media/Picture 3-aac7.png" id="id18109467__onlineimage" height="411" width="633"/>
+        </media>
+      </figure>
+      <para id="id9243441"> Skets ‘n stroomdiagram. Gebruik al die korrekte simbole en verskaf ook ‘n sleutel om elke simbool te verduidelik.</para>
+      <figure id="id14652170">
+        <media id="id14652170_media" alt="">
+          <image mime-type="image/png" src="../../media/Picture 5-93a3.png" id="id14652170__onlineimage" height="428" width="634"/>
+        </media>
+      </figure>
+      <para id="id13581125">Assessering van ontwerp van elektriese stroombaan</para>
+      <table id="id11534974" summary="">
+        <tgroup cols="3">
+          <colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <colspec colnum="3" colname="c3"/>
+          <tbody>
+            <row>
+              <entry/>
+              <entry>Ja</entry>
+              <entry>Nee</entry>
+            </row>
+            <row>
+              <entry>1. Weerstand is in serie met lig.</entry>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry>2. Twee drade loop van gonser direk na konnektor/s. </entry>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry>3. Twee drade loop van gloeilamp direk na konnektor/s</entry>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry>4. ‘n Draad elk vanaf gonser en gloeilamp loop deur een opening van konnektor.</entry>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry>5. Die ander twee drade vanaf die gonser en gloeilamp loop deur een opening van die konnektor.</entry>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry>6. Een draad vanaf die konnektor gaan na die battery en buitentoe.</entry>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry>7. Die ander draad vanaf die konnektor gaan dadelik buitentoe</entry>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry>8. Beide buitedrade het pole aan</entry>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry>9. Lengte en breedte van isoleerbord word aangedui.. </entry>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry>10. Vyf ander dimensies word aangedui</entry>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry>11. Rooi draad loop vanaf battery na gloeilamp en gonser</entry>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry>12. Swart draad loop vanaf gloeilamp en gonser na battery</entry>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry>13. Sleutel is volledig en korrek.</entry>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry>14. Stroomdiagram is volledig en korrek</entry>
+              <entry/>
+              <entry/>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <para id="id17882390">Assesseringskaal</para>
+      <table id="id11813645" summary="">
+        <tgroup cols="4">
+          <colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <colspec colnum="3" colname="c3"/>
+          <colspec colnum="4" colname="c4"/>
+          <tbody>
+            <row>
+              <entry>4</entry>
+              <entry>3</entry>
+              <entry>2</entry>
+              <entry>1</entry>
+            </row>
+            <row>
+              <entry>Twaalf tot veertien ja’s.</entry>
+              <entry>Sewe tot elf is ja.</entry>
+              <entry>Drie tot ses is ja.</entry>
+              <entry>Een/ twee is ja.</entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <para id="id6844858">Leerder 3:</para>
+      <para id="id4393395">Ontwerp: </para>
+      <para id="id20981238"/>
+      <para id="id20981242"> Skets en beplanning van houer vir stroombaan in isometries. Dui die tesselasie-patroon aan en gebruik ‘n isometriese ruitnet.</para>
+      <para id="id20862258">Ontwerp die net van die houer/boks op ‘n A3 grafiekpapier.</para>
+      <para id="id11602195">Assessering van ontwerp van houer</para>
+      <table id="id14800703" summary="">
+        <tgroup cols="4">
+          <colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <colspec colnum="3" colname="c3"/>
+          <colspec colnum="4" colname="c4"/>
+          <tbody>
+            <row>
+              <entry>4</entry>
+              <entry>3</entry>
+              <entry>2</entry>
+              <entry>1</entry>
+            </row>
+            <row>
+              <entry>Vier afmetings is gegee.</entry>
+              <entry>Drie afmetings is gegee.</entry>
+              <entry>Twee afmetings is gegee.</entry>
+              <entry>Een/geen afmetings is gegee.</entry>
+            </row>
+            <row>
+              <entry>Vier korrekte flappe.</entry>
+              <entry>Drie korrekte flappe.</entry>
+              <entry>Twee korrekte flappe.</entry>
+              <entry>Een/geen korrekte flappe.</entry>
+            </row>
+            <row>
+              <entry>Breedte van flappe 10 mm en netjiese hoeke.</entry>
+              <entry>Breedte van flappe te groot of te klein en netjiese hoeke.</entry>
+              <entry>Breedte van flappe te groot of te klein met skerp hoeke.</entry>
+              <entry>Breedte van flappe verskil almal met skerp hoeke.</entry>
+            </row>
+            <row>
+              <entry>Flappe vorm ‘n patroon.</entry>
+              <entry>Flappe vorm geen patroon.</entry>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry>Skuinsaansig en isometries korrek op skaal.</entry>
+              <entry>Skuinsaansig of isometries korrek op skaal.</entry>
+              <entry>Niks is op skaal, maar wel geteken.</entry>
+              <entry>Niks is geteken.</entry>
+            </row>
+            <row>
+              <entry>Drie sye het ‘n tesselasiepatroon in kleur.</entry>
+              <entry>Twee sye het ‘n tesselasiepatroon in kleur.</entry>
+              <entry>Een sy het ‘n tesselasiepatroon in kleur.</entry>
+              <entry>Een sy het net halfpad ‘n tesselasiepatroon in kleur of sonder kleur.</entry>
+            </row>
+            <row>
+              <entry>Tesselasiepatroon 10 mm by 10 mm en is netjies en pas in.</entry>
+              <entry>Tesselasiepatroon 10 mm by 10 mm , maar nie netjies.</entry>
+              <entry>Tesselasiepatroon te groot of te klein.</entry>
+              <entry>Geen tesselasiepatroon op boks.</entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <table id="id7462406" summary="">
+        <tgroup cols="3">
+          <colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <colspec colnum="3" colname="c3"/>
+          <tbody>
+            <row>
+              <entry>Oorheersende kode:</entry>
+              <entry/>
+              <entry/>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <section id="id13542344">
+        <title>Assesseringsmatriks van opvoeder</title>
+        <para id="id11459890">Ontwerp</para>
+      </section>
+      <section id="id20112833">
+        <title>Moontlike idees</title>
+        <table id="id20886772" summary="">
+          <tgroup cols="2">
+            <colspec colnum="1" colname="c1"/>
+            <colspec colnum="2" colname="c2"/>
+            <tbody>
+              <row>
+                <entry>4</entry>
+                <entry>4 – 6 moontlike en relevante oplossings is gegee, oorspronklik met beskrywende byskrifte.</entry>
+              </row>
+              <row>
+                <entry>3</entry>
+                <entry>3 – 4 moontlike en relevante oplossings is gegee, oorspronklik met beskrywende byskrifte.</entry>
+              </row>
+              <row>
+                <entry>2</entry>
+                <entry>Baie elementêre idees is gegee met min of geen byskrifte en verduidelikings.</entry>
+              </row>
+              <row>
+                <entry>1</entry>
+                <entry>Geen moontlike idees is gegee.</entry>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+      </section>
+      <section id="id13627820">
+        <title>Finale ontwerp van 1, 2 of 3</title>
+        <table id="id13667020" summary="">
+          <tgroup cols="2">
+            <colspec colnum="1" colname="c1"/>
+            <colspec colnum="2" colname="c2"/>
+            <tbody>
+              <row>
+                <entry>4</entry>
+                <entry>Netjiese, beskrywende 2D-ontwerp: toon gedetailleerde byskrifte, notas, afmetings, materiaal, kleur, verhouding, skaduwing</entry>
+              </row>
+              <row>
+                <entry>3</entry>
+                <entry>2D-ontwerp: toon byskrifte, notas, afmetings, materiale, kleur, verhouding, skaduwing</entry>
+              </row>
+              <row>
+                <entry>2</entry>
+                <entry>Baie eenvoudige 2D-ontwerp met min byskrifte en notas</entry>
+              </row>
+              <row>
+                <entry>1</entry>
+                <entry>Geen finale ontwerp word getoon</entry>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+        <para id="id4624401">Onderwyser:   Datum:  </para>
+        <para id="id17915344">Kommentaar:  </para>
+        <para id="id13555773"/>
+        <para id="id13555777"/>
+        <para id="id13504422"/>
+        <para id="id17949972">Ouer:   Datum:  </para>
+        <para id="id11568616">Kommentaar:  </para>
+        <para id="id20416845"/>
+        <para id="id6843064"/>
+        <para id="id6843069">Bronne benodig vir maak van produk</para>
+        <table id="id11862573" summary="">
+          <tgroup cols="5">
+            <colspec colnum="1" colname="c1"/>
+            <colspec colnum="2" colname="c2"/>
+            <colspec colnum="3" colname="c3"/>
+            <colspec colnum="4" colname="c4"/>
+            <colspec colnum="5" colname="c5"/>
+            <tbody>
+              <row>
+                <entry>Materiaal gebruik</entry>
+                <entry>Grootte / Afmetings (lengte, breedte, diepte, hoogte)</entry>
+                <entry>Hoeveel-heid</entry>
+                <entry>Gereed-skap gebruik</entry>
+                <entry>Aksie</entry>
+              </row>
+              <row>
+                <entry>Leerder 1:<list id="id11672294" list-type="bulleted"><item>Vir deksel.</item></list>Leerder 2:<list id="id6408460" list-type="bulleted"><item>Vir elektriese stroombaan.</item></list>Leerder 3:<list id="id14832794" list-type="bulleted"><item>Vir houer van stroombaan.</item></list></entry>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+      </section>
+    </section>
+  </content>
+</document>

@@ -1,0 +1,525 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>Om 'n elektronies wiskundige speletjie te maak - Deel 1</title>
+  <metadata>
+  <md:content-id>m24783</md:content-id><md:title>Om 'n elektronies wiskundige speletjie te maak - Deel 1</md:title>
+  <md:abstract/>
+  <md:uuid>7ac9842a-e21b-4aa6-bce9-87da18379ee6</md:uuid>
+</metadata>
+
+<content>
+    <section id="id1170055727245">
+      <title>TEGNOLOGIE</title>
+      <para id="para-id1170055727245">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id7161371">
+      <title>Graad 7</title>
+      <para id="para-id7161371">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id2213509">
+      <title>STELSELS EN BEHEER: ELEKTRISITEIT</title>
+      <para id="para-id2213509">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id1170060609055">
+      <title>Module 12</title>
+      <para id="para-id1170060609055">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id1170060727784">
+      <title>Om ‘n elektroniese wiskundige speletjie te maak – Deel 1</title>
+      <section id="id1170058683821">
+        <title>Opdrag 1: </title>
+        <para id="para-id1170058683821">
+          <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+        </para>
+      </section>
+      <section id="id1170058317081">
+        <title>Om ‘n elektroniese wiskundige speletjie te maak</title>
+        <table id="id1170055420719" summary="">
+          <tgroup cols="5">
+            <colspec colnum="1" colname="c1"/>
+            <colspec colnum="2" colname="c2"/>
+            <colspec colnum="3" colname="c3"/>
+            <colspec colnum="4" colname="c4"/>
+            <colspec colnum="5" colname="c5"/>
+            <tbody>
+              <row>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+              </row>
+              <row>
+                <entry/>
+                <entry>LU/AS 1.2/1.7 – 1.9</entry>
+                <entry/>
+                <entry/>
+                <entry/>
+              </row>
+              <row>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+              </row>
+              <row>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+              </row>
+              <row>
+                <entry/>
+                <entry>LU/AS 1.10/1.12 – 1.13</entry>
+                <entry/>
+                <entry/>
+                <entry/>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+        <para id="id1170059433451">Probleem:</para>
+        <para id="id5365883">Die leerders in gr.4 by Laerskool   sukkel baie in die aanleer van tafels in Wiskunde.</para>
+        <para id="id3900941">Ontwerpvoorstel:</para>
+        <para id="id6780790">Ontwerp en maak ‘n oplossing vir hierdie probleem.</para>
+        <para id="id1170057485722"><emphasis effect="bold">A. </emphasis>Skryf ‘n paar redes neer waarom ‘n oplossing vir hierdie probleem ‘n positiewe uitwerking  op gr. 4-leerders se lewe sal hê.</para>
+        <para id="id1170059757429">Moontlike oplossings vir die probleem.</para>
+        <list id="id1170059517296" list-type="bulleted">
+          <item>
+            <list id="id1170055565843" list-type="bulleted">
+              <item>Ouers of ouer familielede moet beter vaslegging tuis doen.</item>
+              <item>Leerders moet elke dag ‘n tafeltoets by die skool skryf.</item>
+              <item>Ontwerp speletjies om vaslegging speel-speel te verseker.</item>
+            </list>
+          </item>
+          <item>Leerders skryf foute van tafeltoets 50 keer uit.</item>
+        </list>
+        <para id="id6531276">Ander:</para>
+        <para id="id7791845">Ontwerpspesifikasies en beperkings </para>
+        <para id="id1170059758149">Mense(ouderdom / mark):</para>
+        <para id="id1170060534347"/>
+        <para id="id2358780">Doel: </para>
+        <para id="id3904949">Voorkoms Kleur: </para>
+        <para id="id1170060915655">Vorm: </para>
+        <para id="id6838612">Werking: </para>
+        <para id="id1170059344780">Impak op die omgewing - waar gemaak </para>
+        <para id="id1170055215934">- waar gebruik</para>
+        <para id="id3302538">Veiligheidsaspekte tydens vervaardiging: </para>
+        <para id="id2564367">Tydens gebruik </para>
+        <para id="id5835904">Ontwerpvoorstel</para>
+        <para id="id1170060890290">Ek gaan ‘n   (wat) ontwerp en maak vir </para>
+        <para id="id1170055507335">  (wie) sodat hulle   (doel) beter </para>
+        <para id="id2238849">sal ken en toepas in die   (waar).</para>
+        <para id="id1391467">Koste van materiaal gebruik vir die elektriese stroombaan</para>
+        <para id="id1170056014463">Isoleerbord  </para>
+        <para id="id1170059743261">Gloeilamp  </para>
+        <para id="id2357064">Gloeilamphouer  </para>
+        <para id="id1170061566079">Battery (9V)  </para>
+        <para id="id1170061689924">Batterykonnektor  </para>
+        <para id="id5876054">Skroefies  </para>
+        <para id="id1170057769939">Resistor  </para>
+        <para id="id1170055460402">Gonser  </para>
+        <para id="id3665358">Konnektors  </para>
+        <para id="id1170059732597">Isoleerdraad  </para>
+        <para id="id1170059485112">Wasters  </para>
+        <para id="id1170055569370">Spleetspelde  </para>
+        <para id="id2213743">Koste van materiaal gebruik vir die houer</para>
+        <para id="id3138401">Karton  </para>
+        <para id="id1170059309580">Isoleerdraad  </para>
+        <para id="id6316672">Spleetspelde  </para>
+        <para id="id1170058113894">Koste van vervaardiging  </para>
+        <para id="id1170061512132">Verkoopprys  </para>
+        <para id="id1170056374697">Wins  </para>
+        <para id="id1170060621132">Tydstoewysing vir ontwerp en vervaardiging van speletjie</para>
+        <table id="id1170057867252" summary="">
+          <tgroup cols="12">
+            <colspec colnum="1" colname="c1"/>
+            <colspec colnum="2" colname="c2"/>
+            <colspec colnum="3" colname="c3"/>
+            <colspec colnum="4" colname="c4"/>
+            <colspec colnum="5" colname="c5"/>
+            <colspec colnum="6" colname="c6"/>
+            <colspec colnum="7" colname="c7"/>
+            <colspec colnum="8" colname="c8"/>
+            <colspec colnum="9" colname="c9"/>
+            <colspec colnum="10" colname="c10"/>
+            <colspec colnum="11" colname="c11"/>
+            <colspec colnum="12" colname="c12"/>
+            <tbody>
+              <row>
+                <entry>Datum</entry>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+              </row>
+              <row>
+                <entry>Probleem en marknavorsing</entry>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+              </row>
+              <row>
+                <entry>ONDERSOEK:</entry>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+              </row>
+              <row>
+                <entry>Beperkings, spesifikasies en ontwerpvoorstel</entry>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+              </row>
+              <row>
+                <entry><emphasis effect="bold">ONTWERP:</emphasis> Aanvanklike idees</entry>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+              </row>
+              <row>
+                <entry>Ontwerp</entry>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+              </row>
+              <row>
+                <entry><emphasis effect="bold">VERVAARDIGING:</emphasis> . Keuse van materiaal en gereedskap</entry>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+              </row>
+              <row>
+                <entry>Maak van komponent</entry>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+              </row>
+              <row>
+                <entry>Beskrywing van proses</entry>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+              </row>
+              <row>
+                <entry><emphasis effect="bold">EVALUERING:</emphasis> Skets van produk</entry>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+              </row>
+              <row>
+                <entry>Evaluering van produk</entry>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+              </row>
+              <row>
+                <entry>Samestelling van projekportefeulje</entry>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+        <para id="id6534678"> Ondersoek ten minste drie bestaande elektroniese speletjies en voltooi die kolomme  ten opsigte van ten minste vyf van die kernaspekte van ontwerp.</para>
+        <table id="id8990372" summary="">
+          <tgroup cols="5">
+            <colspec colnum="1" colname="c1"/>
+            <colspec colnum="2" colname="c2"/>
+            <colspec colnum="3" colname="c3"/>
+            <colspec colnum="4" colname="c4"/>
+            <colspec colnum="5" colname="c5"/>
+            <tbody>
+              <row>
+                <entry/>
+                <entry/>
+                <entry>Speletjie1</entry>
+                <entry>Speletjie2</entry>
+                <entry>Speletjie3</entry>
+              </row>
+              <row>
+                <entry>No.</entry>
+                <entry>Naam van speletjie </entry>
+                <entry/>
+                <entry/>
+                <entry/>
+              </row>
+              <row>
+                <entry>1</entry>
+                <entry>Vryhandskets van <emphasis effect="underline">voorkoms</emphasis> VormKleur</entry>
+                <entry/>
+                <entry/>
+                <entry/>
+              </row>
+              <row>
+                <entry>2</entry>
+                <entry>Grootte</entry>
+                <entry/>
+                <entry/>
+                <entry/>
+              </row>
+              <row>
+                <entry>3</entry>
+                <entry>Beheer </entry>
+                <entry/>
+                <entry/>
+                <entry/>
+              </row>
+              <row>
+                <entry>4</entry>
+                <entry>Koste, en is dit toeganklik vir alle groepe in die gemeenskap?</entry>
+                <entry/>
+                <entry/>
+                <entry/>
+              </row>
+              <row>
+                <entry>5</entry>
+                <entry>Duursaamheid</entry>
+                <entry/>
+                <entry/>
+                <entry/>
+              </row>
+              <row>
+                <entry>6</entry>
+                <entry>Hoeveelheid speletjies </entry>
+                <entry/>
+                <entry/>
+                <entry/>
+              </row>
+              <row>
+                <entry>7</entry>
+                <entry>Doel </entry>
+                <entry/>
+                <entry/>
+                <entry/>
+              </row>
+              <row>
+                <entry>8</entry>
+                <entry>Materiaal gebruik en voordelig of nadelig vir omgewing </entry>
+                <entry/>
+                <entry/>
+                <entry/>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+        <table id="id1170055679022" summary="">
+          <tgroup cols="5">
+            <colspec colnum="1" colname="c1"/>
+            <colspec colnum="2" colname="c2"/>
+            <colspec colnum="3" colname="c3"/>
+            <colspec colnum="4" colname="c4"/>
+            <colspec colnum="5" colname="c5"/>
+            <tbody>
+              <row>
+                <entry>9</entry>
+                <entry>Vir watter ouderdomsgroep? Is dit voordelig of nadelig vir hulle? </entry>
+                <entry/>
+                <entry/>
+                <entry/>
+              </row>
+              <row>
+                <entry>10</entry>
+                <entry>Kragbron</entry>
+                <entry/>
+                <entry/>
+                <entry/>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+        <para id="id1170055415963">Wiskundige speletjie</para>
+        <para id="id1170057556859">Elektroniese vasvrae</para>
+        <figure id="id1170058702208">
+          <media id="id1170058702208_media" alt="">
+            <image mime-type="image/png" src="../../media/Picture 7-6f86.png" id="id1170058702208__onlineimage" height="508" width="573"/>
+          </media>
+        </figure>
+        <para id="id6294493"/>
+        <para id="id1170055719362">
+          <emphasis effect="bold">Benodigdhede </emphasis>
+          <emphasis effect="bold">(materiaal en gereedskap)</emphasis>
+          <emphasis effect="bold">:</emphasis>
+        </para>
+        <list id="id1170061509705" list-type="bulleted">
+          <item>naam</item>
+          <item>skerm met opening vir gonser en lig</item>
+          <item>10 vrae en 10 antwoorde</item>
+          <item>20 spleetspelde</item>
+        </list>
+        <para id="id1170058328039"> Teken die agteraansig op die agterkant van jou gekose ontwerp. Dui aan hoe die  geleidingsdrade ‘n vraag met sy korrekte antwoord verbind.</para>
+        <para id="id1170058106305"> Watter idee is jou beste oplossing? Idee: </para>
+        <para id="id1170055282856"> Skryf geldige redes neer vir jou keuse.</para>
+      </section>
+    </section>
+    <section id="id1170055032540">
+      <title>Assessering</title>
+      <table id="id1170059354228" summary="">
+        <tgroup cols="1">
+          <colspec colnum="1" colname="c1"/>
+          <tbody>
+            <row>
+              <entry>Leeruitkomstes(LUs)</entry>
+            </row>
+            <row>
+              <entry/>
+            </row>
+            <row>
+              <entry>LU 1</entry>
+            </row>
+            <row>
+              <entry>Tegnologiese Prosesse en VaardighedeDie leerder is in staat om tegnologiese prosesse en vaardighede eties en verantwoordelik toe te pas deur gepaste inligtings- en kommunikasietegnologie te gebruik.</entry>
+            </row>
+            <row>
+              <entry>Assesseringstandaarde(ASe)</entry>
+            </row>
+            <row>
+              <entry/>
+            </row>
+            <row>
+              <entry>Dit is duidelik wanneer die leerder:</entry>
+            </row>
+            <row>
+              <entry><emphasis effect="bold">ondersoek</emphasis>:</entry>
+            </row>
+            <row>
+              <entry>1.2 bestaande produkte ondersoek wat toepaslik is vir ‘n probleem, situasie of behoefte gebaseer op die volgende kernaspekte van ontwerp.</entry>
+            </row>
+            <row>
+              <entry><emphasis effect="bold">ontwerp</emphasis>:</entry>
+            </row>
+            <row>
+              <entry>1.5 ‘n kort en duidelike stelling of ontwerpopdrag skryf of kommunikeer vir die ontwikkeling van ‘n produk of stelsel met betrekking tot ‘n gegewe probleem, behoefte of geleentheid;</entry>
+            </row>
+            <row>
+              <entry>1.7 minstens twee alternatiewe oplossings genereer en die idees annoteer;</entry>
+            </row>
+            <row>
+              <entry>1.8 moontlike oplossings kies, sinvolle redes vir keuse gee en ‘n gekose idee deur middel van grafika of modelleringstegnieke ontwikkel;</entry>
+            </row>
+            <row>
+              <entry><emphasis effect="bold">maak</emphasis>:</entry>
+            </row>
+            <row>
+              <entry>1.9 ‘n plan ontwikkel vir die maak van ‘n produk, met besonderhede oor al die volgende:<list id="id1170056126449" list-type="bulleted"><item>hulpbronne en hulpmiddels wat nodig is (bv. lyste materiaal, gereedskap, mense, koste);</item><item>sketse wat die nodige afmetings of hoeveelhede toon;</item><item>al die stappe wat nodig is vir die maak van die produk;</item></list></entry>
+            </row>
+            <row>
+              <entry>1.10 gepaste gereedskap en materiaal kies en gebruik om produkte deur middel van gepaste tegnieke te maak deur verskillende soorte materiaal akkuraat te meet, uit te merk, te knip/sny of te skei, te vorm of te vervorm, te heg, te las of saam te voeg, en af te rond;</entry>
+            </row>
+            <row>
+              <entry>1.12 die produk of stelsel evalueer gebaseer op kriteria wat direk met die ontwerpopdrag en sommige van die spesifikasies en beperkings verband hou, en verbeteringe of wysigings voorstel;</entry>
+            </row>
+            <row>
+              <entry>1.13 die doeltreffendheid van die plan van aksie wat gevolg is evalueer en voorstel hoe toekomstige planne verbeter kan word.</entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+    </section>
+  </content>
+</document>
