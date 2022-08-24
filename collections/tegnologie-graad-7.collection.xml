@@ -1,3 +1,57 @@
-<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="en" type="Course">  <metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">  <md:content-id>col11031</md:content-id>  <md:title>Tegnologie Graad 7</md:title>      <md:license url="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution License 3.0</md:license>  <md:language>af</md:language>              <md:uuid>8986f09b-61e9-4dac-b83d-35f930d5edbe</md:uuid>
-<md:slug>tegnologie-graad-7</md:slug>
-</metadata>  <col:content>                        <col:subcollection>        <md:title>Kwartaal 1</md:title>                                <col:content>                    <col:module document="m24699"/>                            <col:module document="m24700"/>                            <col:module document="m24702"/>                            <col:module document="m24716"/>                            <col:module document="m24717"/>                          </col:content>      </col:subcollection>                            <col:subcollection>        <md:title>Kwartaal 2</md:title>                                <col:content>                    <col:module document="m24723"/>                            <col:module document="m24731"/>                            <col:module document="m24744"/>                            <col:module document="m24759"/>                          </col:content>      </col:subcollection>                            <col:subcollection>        <md:title>Kwartaal 3</md:title>                                <col:content>                    <col:module document="m24760"/>                            <col:module document="m24766"/>                            <col:module document="m24783"/>                            <col:module document="m24784"/>                            <col:module document="m24785"/>                            <col:module document="m24788"/>                            <col:module document="m24790"/>                            <col:module document="m24797"/>                            <col:module document="m24799"/>                          </col:content>      </col:subcollection>                            <col:subcollection>        <md:title>Kwartaal 4</md:title>                                <col:content>                    <col:module document="m24801"/>                            <col:module document="m24802"/>                            <col:module document="m24803"/>                            <col:module document="m29596"/>                            <col:module document="m24806"/>                            <col:module document="m24820"/>                          </col:content>      </col:subcollection>      </col:content></col:collection>
+<?xml version="1.0"?>
+<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="en" type="Course" authors="Siyavula Uploaders">
+  <metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">
+    <md:content-id>col11031</md:content-id>
+    <md:title>Tegnologie Graad 7</md:title>
+    <md:license url="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution License 3.0</md:license>
+    <md:language>af</md:language>
+    <md:uuid>8986f09b-61e9-4dac-b83d-35f930d5edbe</md:uuid>
+    <md:slug>tegnologie-graad-7</md:slug>
+  </metadata>
+  <col:content>
+    <col:subcollection>
+      <md:title>Kwartaal 1</md:title>
+      <col:content>
+        <col:module document="m24699"/>
+        <col:module document="m24700"/>
+        <col:module document="m24702"/>
+        <col:module document="m24716"/>
+        <col:module document="m24717"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Kwartaal 2</md:title>
+      <col:content>
+        <col:module document="m24723"/>
+        <col:module document="m24731"/>
+        <col:module document="m24744"/>
+        <col:module document="m24759"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Kwartaal 3</md:title>
+      <col:content>
+        <col:module document="m24760"/>
+        <col:module document="m24766"/>
+        <col:module document="m24783"/>
+        <col:module document="m24784"/>
+        <col:module document="m24785"/>
+        <col:module document="m24788"/>
+        <col:module document="m24790"/>
+        <col:module document="m24797"/>
+        <col:module document="m24799"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Kwartaal 4</md:title>
+      <col:content>
+        <col:module document="m24801"/>
+        <col:module document="m24802"/>
+        <col:module document="m24803"/>
+        <col:module document="m29596"/>
+        <col:module document="m24806"/>
+        <col:module document="m24820"/>
+      </col:content>
+    </col:subcollection>
+  </col:content>
+</col:collection>
